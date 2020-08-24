@@ -5,11 +5,16 @@ I'm also a technical speaker both for local and international events and a user-
 I'm passionate about biking, reading, and dogs!!
 
 
-<p align="center" valign="middle">
-    <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/mail.svg">
-        <a src="mailto:massimo.bonanni@tiscali.it"/>
-    </img>
-    <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/linkedin.svg">
-        <a src="https://www.linkedin.com/in/massimobonanni/"/>
-    </img>
+<p align="center">
+    <a src="mailto:massimo.bonanni@tiscali.it">
+        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/mail.svg"/>
+    </a>
+    <a src="https://www.linkedin.com/in/massimobonanni/">
+        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/linkedin.svg">
+    </a>
 </p>
+
+## My Technical Sessions
+
+## My Projects
+
