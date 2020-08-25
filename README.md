@@ -16,8 +16,7 @@ I'm passionate about biking, reading, and dogs!!
 
 ## My Technical Sessions
 <p>
-<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/202007017.md"> 17/07/2020 - NextCode Generation Meetup - Serverless and Azure Functions: the winning combination! </a>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200717.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 17/07/2020 - NextCode Generation Meetup - Serverless and Azure Functions: the winning combination! </a>
 </p>
 <p>
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 
