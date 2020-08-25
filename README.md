@@ -17,11 +17,11 @@ I'm passionate about biking, reading, and dogs!!
 ## My Technical Sessions
 <p>
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"> 
-<a src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/techniocalsessions/20200717.md"> 17/07/2020 - NextCode Generation Meetup - SServerless and Azure Functions: the winning combination!</a>
+<a href="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/techniocalsessions/20200717.md"> 17/07/2020 - NextCode Generation Meetup - SServerless and Azure Functions: the winning combination!</a>
 </p>
 <p>
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"> 
-<a src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/techniocalsessions/20200603.md"> 03/06/2020 - Home Gen Meetup - Secrets safe and centralize with Azure KeyVault and Azure App Configuration </a>
+<a href="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/techniocalsessions/20200603.md"> 03/06/2020 - Home Gen Meetup - Secrets safe and centralize with Azure KeyVault and Azure App Configuration </a>
 </p>
 
 ## My Projects
