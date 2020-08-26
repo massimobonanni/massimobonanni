@@ -15,8 +15,12 @@ I'm passionate about biking, reading, and dogs!!
 </p>
 
 ## My Technical Sessions
+### 2020
 <p>
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200717.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 17/07/2020 - NextCode Generation Meetup - Serverless and Azure Functions: the winning combination! </a>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200624.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 24/06/2020 - #PitchOnline meetup (SharpCoding community) - Stateful pattern in Azure Functions </a>
+</p>
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200617.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 17/06/2020 - NextCode Generation Meetup - Serverless and Azure Functions: the winning combination! </a>
 </p>
 <p>
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 
