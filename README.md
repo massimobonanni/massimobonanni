@@ -12,6 +12,9 @@ I'm passionate about biking, reading, and dogs!!
     <a href="https://www.linkedin.com/in/massimobonanni/">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/linkedin.svg">
     </a>
+    <a href="https://twitter.com/massimobonanni">
+        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/twitter.svg">
+    </a>
 </p>
 
 ## My Technical Sessions
