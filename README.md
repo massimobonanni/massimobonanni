@@ -23,6 +23,9 @@ I'm passionate about biking, reading, and dogs!!
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200617.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 17/06/2020 - NextCode Generation Meetup - Serverless and Azure Functions: the winning combination! </a>
 </p>
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200617.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 12/06/2020 - AzureDay 2020 - Empower every Azure Function to achieve more!! </a>
+</p>
+<p>
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200603.md"> 03/06/2020 - Home Gen Meetup - Secrets safe and centralize with Azure KeyVault and Azure App Configuration </a>
 </p>
