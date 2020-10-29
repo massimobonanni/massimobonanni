@@ -20,6 +20,9 @@ I'm passionate about biking, reading, and dogs!!
 ## My Technical Sessions
 ### 2020
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201021.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 21/10/2020 - NextCode Generation Meetup - Stateful patterns with Azure Functions </a>
+</p>
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200624.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 24/06/2020 - #PitchOnline meetup (SharpCoding community) - Stateful pattern in Azure Functions </a>
 </p>
 <p>
