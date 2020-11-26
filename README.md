@@ -20,6 +20,9 @@ I'm passionate about biking, reading, and dogs!!
 ## My Technical Sessions
 ### 2020
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201201.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 01/12/2020 - Microsoft Reactor Stockholm - Secrets safe with Azure KeyVault</a>
+</p>
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201029.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 29/10/2020 - Cloud Day 2020 (UGIdotNET) - Centralize and secure app secrets with Azure KeyVault and Azure App Configuration </a>
 </p>
 <p>
