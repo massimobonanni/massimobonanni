@@ -20,6 +20,12 @@ I'm passionate about biking, reading, and dogs!!
 ## My Technical Sessions
 ### 2020
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201203.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 03/12/2020 - Azure Meetup DotNetCode - Azure Management for dummies</a>
+</p>
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201202.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 02/12/2020 - .NET Conf 2020 DotNetToscana - The art of Azure Functions (unit) testing and monitoring</a>
+</p>
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201201.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 01/12/2020 - Microsoft Reactor Stockholm - Secrets safe with Azure KeyVault</a>
 </p>
 <p>
