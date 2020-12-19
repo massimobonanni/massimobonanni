@@ -20,6 +20,9 @@ I'm passionate about biking, reading, and dogs!!
 ## My Technical Sessions
 ### 2020
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201214.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 14/12/2020 - .NET Conf 202 - DotNetCode - Writing Stateful patterns with .NET Core</a>
+</p>
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201210.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 10/12/2020 - Microsoft Reactor Stockholm - Centralize your configurations with Azure App Configuration .. and not only!!</a>
 </p>
 <p>
