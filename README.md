@@ -15,6 +15,9 @@ I'm passionate about biking, reading, and dogs!!
     <a href="https://twitter.com/massimobonanni">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/twitter.svg">
     </a>
+    <a href="https://sessionize.com/massimo-bonanni/">
+        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/sessionize.png">
+    </a>
 </p>
 
 ## My Technical Sessions
