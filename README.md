@@ -60,6 +60,9 @@ I'm passionate about biking, reading, and dogs!!
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200507.md"> 07/05/2020 - Azure Meetup Roma - Keep your secrets and configurations safe in Azure!</a>
 </p>
-
+<p>
+<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200221.md"> 21/02/2020 - Serverless Day - The art of Azure Functions (unit) testing ans monitoring</a>
+</p>
 ## My Projects
 
