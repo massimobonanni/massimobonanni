@@ -64,5 +64,17 @@ I'm passionate about biking, reading, and dogs!!
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200221.md"> 21/02/2020 - Serverless Day - The art of Azure Functions (unit) testing ans monitoring</a>
 </p>
+<p>
+<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200127-1.md"> 27/01/2020 - Ignite Tour 2020 Milan - Empower every Azure Function to achieve more!!</a>
+</p>
+<p>
+<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200127-2.md"> 27/01/2020 - Ignite Tour 2020 Milan - The art of Azure Functions (unit) testing and monitoring</a>
+</p>
+<p>
+<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200127-3.md"> 27/01/2020 - Ignite Tour 2020 Milan - Everything you always wanted to know about API Management (but were afraid to ask)</a>
+</p>
 ## My Projects
 
