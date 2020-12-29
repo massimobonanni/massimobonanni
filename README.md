@@ -21,6 +21,9 @@ I'm passionate about biking, reading, and dogs!!
 </p>
 
 ## My Technical Sessions
+
+### 2021
+
 ### 2020
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201214.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 14/12/2020 - .NET Conf 202 - DotNetCode - Writing Stateful patterns with .NET Core</a>
@@ -76,5 +79,8 @@ I'm passionate about biking, reading, and dogs!!
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200127-3.md"> 27/01/2020 - Ignite Tour 2020 Milan - Everything you always wanted to know about API Management (but were afraid to ask)</a>
 </p>
-## My Projects
+<p>
+<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20200116.md"> 16/01/2020 - DevOps@Work 2020 - The art of Azure Functions (unit) testing ans monitoring</a>
+</p>
 
