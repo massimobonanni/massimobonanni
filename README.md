@@ -22,7 +22,12 @@ I'm passionate about biking, reading, and dogs!!
 
 ## My Technical Sessions
 
-### 2021
+<details open>
+  <summary>2021</summary>
+  
+  ### 2021
+
+</details>
 
 ### 2020
 <p>
