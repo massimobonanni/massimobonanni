@@ -24,7 +24,9 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2021
  
-  Coming soon!!
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210127.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 27/01/2021 - #PitchOnline meetup (SharpCoding community) - The art of Azure Functions unit testing and monitoring</a>
+</p>
 
 ### 2020
 
