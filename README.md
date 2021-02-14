@@ -24,11 +24,15 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2021
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210213.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 12/02/2021 - CodeGen 2021 - IoT in salsa Serverless</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210210.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 10/02/2021 - Microsoft Reactor Stockholm - Empower every Azure Function to achieve more!!</a>
 </p>
 
 <p>
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210127.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 27/01/2021 - #PitchOnline meetup (SharpCoding community) - The art of Azure Functions unit testing and monitoring</a>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210127.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 27/01/2021 - #PitchOnline meetup (SharpCoding community) - The art of Azure Functions (unit) testing and monitoring</a>
 </p>
 
 ### 2020
