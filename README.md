@@ -24,6 +24,14 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2021
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210303.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 03/03/2021 - Microsoft Reactor Stockholm - Stateful patterns in Azure Functions</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210227.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 27/02/2021 - Scottish Summit 2021 - Centralize your configurations with Azure App Configuration....and not only!!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210213.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 12/02/2021 - CodeGen 2021 - IoT in salsa Serverless</a>
 </p>
 
