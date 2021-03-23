@@ -56,7 +56,7 @@ I'm passionate about biking, reading, and dogs!!
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201210.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 10/12/2020 - Microsoft Reactor Stockholm - Centralize your configurations with Azure App Configuration .. and not only!!</a>
 </p>
 <p>
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201203.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 03/12/2020 - Azure Meetup DotNetCode - Azure Management for dummies</a>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201203.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 03/12/2020 - Azure Meetup DotNetCode - Azure Governance for dummies</a>
 </p>
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20201202.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 02/12/2020 - .NET Conf 2020 DotNetToscana - The art of Azure Functions (unit) testing and monitoring</a>
