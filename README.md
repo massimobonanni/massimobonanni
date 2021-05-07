@@ -24,6 +24,10 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2021
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210427.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 27/04/2021 - DeveloperWeek Europe 2021 - Azure Governance: power is nothing without control!!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210416.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 16/04/2021 - Global Azure Virtual 2021 (UGIdotNET) - IoT in salsa serverless</a>
 </p>
 
