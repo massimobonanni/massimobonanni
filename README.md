@@ -24,6 +24,10 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2021
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210629.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 29/06/2021 - GRUSP serverless@127.0.0.1 - Stateful pattern in Azure Functions</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210625.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 25/06/2021 - Azure Day 2021 - Architetture Serverless con SQL Server e Azure Functions</a>
 </p>
 
