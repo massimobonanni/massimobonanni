@@ -24,6 +24,18 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2021
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210729.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 29/07/2021 - DotNetTrentino - Azure App Configuration, configurazioni applicative ... e non solo!</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210728.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 28/07/2021 - NextCODE meetup - IoT in salsa Serverless</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210721.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 21/07/2021 - #PitchOnline #Coding - Durable Functions vs Logic App: la guerra dei workflow!!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210629.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 29/06/2021 - GRUSP serverless@127.0.0.1 - Stateful pattern in Azure Functions</a>
 </p>
 
