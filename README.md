@@ -19,7 +19,7 @@ I'm passionate about biking, reading, and dogs!!
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/sessionize.png">
     </a>
         <a href="https://www.youtube.com/playlist?list=PL4S9boN4bjxktXfi0xhFfkcKn0fMfrHyq">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/youtube.png">
+        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/youtube.svg">
     </a>
 </p>
 
