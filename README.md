@@ -9,6 +9,7 @@ I'm also a technical speaker both for local and international events and a user-
 
 I'm passionate about biking, reading, and dogs!!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X65UAGO)
 -----
 ## 🔗 Links
 <p align="center">
