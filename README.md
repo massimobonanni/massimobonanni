@@ -31,7 +31,7 @@ I'm passionate about biking, reading, and dogs!!
 
 -----
 
-## My Technical Sessions
+## :speech_balloon: Technical Sessions
 
 ### 2021
 <p>
@@ -96,3 +96,32 @@ I'm passionate about biking, reading, and dogs!!
 
 ### [2020 -->](TechicalSessions2020.md)
 
+-----
+
+## :books: Books
+
+<table>
+    <tr>
+        <td width="250">
+            <a href="https://www.packtpub.com/product/mastering-azure-serverless-computing/9781789951226" target="_blank"><img src="https://static.packt-cdn.com/products/9781789951226/cover/smaller"></a>
+        </td>
+        <td rowspan="2">
+            Application development has evolved from traditional monolithic app development to using serverless options and microservices. This book is designed to guide you through using Microsoft's Azure Functions to process data, integrate systems, and build simple APIs and microservices.
+            <br/>
+            You will discover how to apply serverless computing to speed up deployment and reduce downtime. You'll also explore Azure Functions, including its core functionalities and essential tools, along with understanding how to debug and even customize Azure Functions. In addition to this, the book will take you through how you can effectively implement DevOps and automation in your working environment. Toward the concluding chapters, you'll cover some quick tips, troubleshooting techniques, and real-world serverless use cases that will help you make the most of serverless computing.
+            <br/>
+            By the end of this book, you will have gained the skills you need to develop and deliver cost-effective Azure serverless solutions.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Publication date: <b>November 2019</b>
+            <br/>
+            Publisher: <b>Packt</b>
+            <br/>
+            Pages: <b>362</b>
+            <br/>
+            ISBN: <b>9781789951226</b>
+        </td>
+    </tr>
+</table>
