@@ -10,6 +10,7 @@ I'm also a technical speaker both for local and international events and a user-
 I'm passionate about biking, reading, and dogs!!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X65UAGO)
+
 -----
 ## 🔗 Links
 <p align="center">
@@ -35,6 +36,10 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2021
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210930.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 30/09/2021 - Azure Serverless Conf - Serverless architectures with SQL Server and Azure Functions</a>
+</p>
+
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20210729.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 29/07/2021 - DotNetTrentino - Azure App Configuration, configurazioni applicative ... e non solo!</a>
 </p>
@@ -126,3 +131,5 @@ I'm passionate about biking, reading, and dogs!!
         </td>
     </tr>
 </table>
+
+-----
