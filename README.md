@@ -23,7 +23,7 @@ I'm passionate about biking, reading, and dogs!!
     <a href="https://twitter.com/massimobonanni">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/twitter.svg">
     </a>
-    <a href="https://sessionize.com/massimo-bonanni/">
+    <a href="https://sessionize.com/massimobonanni/">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/sessionize.png">
     </a>
         <a href="https://www.youtube.com/playlist?list=PL4S9boN4bjxktXfi0xhFfkcKn0fMfrHyq">
