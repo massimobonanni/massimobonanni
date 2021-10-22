@@ -38,6 +38,14 @@ I'm passionate about biking, reading, and dogs!!
 ### 2021
 #### October
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211030.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 30/10/2021 - Azure Community Conference 2021 - Centralize your configurations with Azure App Configuration....and not only!!</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211027.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 27/10/2021 - #PitchOnLIne meetup - Costruisci la tua infrastruttura Azure con i muscoli di Project Bicep</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211021-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 21/10/2021 - Serverless Day Warsaw - Empower every Azure  Function to achieve more!</a>
 </p>
 
