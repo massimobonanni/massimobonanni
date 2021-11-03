@@ -36,13 +36,18 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2021
+#### November
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211102.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 02/11/2021 - 1nn0va After hour - Segreti al sicuro con KeyVault</a>
+</p>
+
 #### October
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211030.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 30/10/2021 - Azure Community Conference 2021 - Centralize your configurations with Azure App Configuration....and not only!!</a>
 </p>
 
 <p>
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211027.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 27/10/2021 - #PitchOnLIne meetup - Costruisci la tua infrastruttura Azure con i muscoli di Project Bicep</a>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211027.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 27/10/2021 - #PitchOnLine meetup - Costruisci la tua infrastruttura Azure con i muscoli di Project Bicep</a>
 </p>
 
 <p>
