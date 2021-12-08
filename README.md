@@ -36,6 +36,11 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2021
+#### December
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211202.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 02/12/2021 - Azure Meetup Roma - Centralizzare le configurazioni con Azure App Configuration</a>
+</p>
+
 #### November
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211102.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 02/11/2021 - 1nn0va After hour - Segreti al sicuro con KeyVault</a>
