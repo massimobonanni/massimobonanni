@@ -38,6 +38,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2021
 #### December
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211213.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 13/12/2021 - #PitchOnLine Meetup - Automate Azure with Serverless technologies</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211202.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 02/12/2021 - Azure Meetup Roma - Centralizzare le configurazioni con Azure App Configuration</a>
 </p>
 
