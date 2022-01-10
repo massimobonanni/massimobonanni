@@ -45,6 +45,30 @@ I'm passionate about biking, reading, and dogs!!
 ## :books: Books
 
 <table>
+<tr>
+        <td width="300" align="center" valign="top">
+            <a href="https://www.syncfusion.com/succinctly-free-ebooks/azure-durable-functions-succinctly" target="_blank"><img  src="images/azure-durable-functions-succinctly.png" height = 300></a>
+        </td>
+        <td rowspan="2" valign="top">
+            Durable Functions is an Azure Functions extension that implements triggers and bindings that abstract and manage state persistence. 
+            <br/>
+            Using Durable Functions, you can easily create stateful objects entirely managed by the extension. <br />
+            Azure Durable Functions Succinctly author Massimo Bonanni will take readers from a recap of Azure Functions through Durable entities so that you can determine if this technology is right for your needs.
+        </td>
+    </tr>
+    <tr>
+        <td align="left" valign="top">
+            Publication date: <b>January 2021</b>
+            <br/>
+            Publisher: <b>Syncfusion</b>
+            <br/>
+            Pages: <b>101</b>
+            <br/>
+            ISBN: <b>978-1-64200-221-8</b>
+        </td>
+    </tr>
+    <tr height=50>
+    <tr/>
     <tr>
         <td width="300" align="center" valign="top">
             <a href="https://www.packtpub.com/product/mastering-azure-serverless-computing/9781789951226" target="_blank"><img  src="https://static.packt-cdn.com/products/9781789951226/cover/smaller"></a>
