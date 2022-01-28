@@ -40,7 +40,8 @@ I'm passionate about biking, reading, and dogs!!
 ### [2021 -->](TechnicalSessions2021.md)
 ### [2020 -->](TechnicalSessions2020.md)
 
------
+
+----
 
 ## :books: Books
 
