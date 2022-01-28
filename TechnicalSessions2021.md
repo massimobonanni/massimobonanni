@@ -3,7 +3,7 @@
 
 #### December
 <p>
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211213.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 17/12/2021 - Xmasdev 2021 - Babbo Natale, il remote working e le Durable Functions</a>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20211217.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 17/12/2021 - Xmasdev 2021 - Babbo Natale, il remote working e le Durable Functions</a>
 </p>
 
 <p>
