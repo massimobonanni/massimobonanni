@@ -36,6 +36,14 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2022
+#### March
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220318.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 18/03/2022 - .NET Conference 2022 - Azure Functions & .NET 6.0 per l'automazione Azure</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220310.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 10/03/2022 - WebDay 2022 - Azure Functions e OpenAPI: la coppia perfetta!!</a>
+</p>
 
 ### [2021 -->](TechnicalSessions2021.md)
 ### [2020 -->](TechnicalSessions2020.md)
@@ -96,3 +104,25 @@ I'm passionate about biking, reading, and dogs!!
 </table>
 
 -----
+
+## :eyes: Repositories visitors
+
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureFunctionOpenAPI&repository=massimobonanni.AzureFunctionOpenAPI)
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=SQLServerless&repository=massimobonanni.SQLServerless )
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=SantaClausSmartworkController&repository=massimobonanni.SantaClausSmartworkController )
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=BicepDemo&repository=massimobonanni.BicepDemo )
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureDurableFunctionsSuccinctly&repository=massimobonanni.AzureDurableFunctionsSuccinctly )
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=OrderManagerServerless&repository=massimobonanni.OrderManagerServerless )
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=ServerlessIoT&repository=massimobonanni.ServerlessIoT )
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=StatefulPatternFunctions&repository=massimobonanni.StatefulPatternFunctions )
+
+
+
