@@ -36,6 +36,20 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2022
+### May
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220507.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>07/05/2022 - Global Azure 2022 Torino - Da EDGE a Serverless: il viaggio di una telemetria!</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220505.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>05/05/2022 - Global Azure 2022 Verona - Da EDGE a Serverless: il viaggio di una telemetria!</a>
+</p>
+
+### April
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220426.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>26/04/2022 - #PitchOnline meetup (SharpCoding community) - IoT in Serverless sauce</a>
+</p>
+
 #### March
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220318.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 18/03/2022 - .NET Conference 2022 - Azure Functions & .NET 6.0 per l'automazione Azure</a>
