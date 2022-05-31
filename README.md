@@ -124,19 +124,19 @@ I'm passionate about biking, reading, and dogs!!
 
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureFunctionOpenAPI&repository=massimobonanni.AzureFunctionOpenAPI)
 
-![](https://countrush-prod.azurewebsites.net/l/badge/?label=SQLServerless&repository=massimobonanni.SQLServerless )
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=SQLServerless&repository=massimobonanni.SQLServerless)
 
-![](https://countrush-prod.azurewebsites.net/l/badge/?label=SantaClausSmartworkController&repository=massimobonanni.SantaClausSmartworkController )
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=SantaClausSmartworkController&repository=massimobonanni.SantaClausSmartworkController)
 
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=BicepDemo&repository=massimobonanni.BicepDemo )
 
-![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureDurableFunctionsSuccinctly&repository=massimobonanni.AzureDurableFunctionsSuccinctly )
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureDurableFunctionsSuccinctly&repository=massimobonanni.AzureDurableFunctionsSuccinctly)
 
-![](https://countrush-prod.azurewebsites.net/l/badge/?label=OrderManagerServerless&repository=massimobonanni.OrderManagerServerless )
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=OrderManagerServerless&repository=massimobonanni.OrderManagerServerless)
 
-![](https://countrush-prod.azurewebsites.net/l/badge/?label=ServerlessIoT&repository=massimobonanni.ServerlessIoT )
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=ServerlessIoT&repository=massimobonanni.ServerlessIoT)
 
-![](https://countrush-prod.azurewebsites.net/l/badge/?label=StatefulPatternFunctions&repository=massimobonanni.StatefulPatternFunctions )
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=StatefulPatternFunctions&repository=massimobonanni.StatefulPatternFunctions)
 
-
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=ServerlessTicketingService&repository=massimobonanni.ServerlessTicketingService)
 
