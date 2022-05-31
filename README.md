@@ -38,6 +38,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2022
 ### May
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220516.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>16/05/2022 - DotNetCode Meetup - Tutto quello che avreste voluto sapere su API Management (ma non avete mai osato chiedere)</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220507.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>07/05/2022 - Global Azure 2022 Torino - Da EDGE a Serverless: il viaggio di una telemetria!</a>
 </p>
 
