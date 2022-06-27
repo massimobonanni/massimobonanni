@@ -36,6 +36,11 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2022
+### June
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220601.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>01/06/2022 - ServerlessDay Paris 2022 - IoT in Serverless souce</a>
+</p>
+
 ### May
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220526.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>26/05/2022 - devConf 2022 - Azure Functions e OpenAPI: la coppia perfetta!</a>
