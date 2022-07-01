@@ -38,6 +38,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2022
 ### June
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220616.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>16/06/2022 - DotNetCode meetup - Bicep o Terraform, questo è il dilemma...</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220610.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>10/06/2022 - SQL Start 2022 - Usare SQL Server come strato di persistenza delle Durable Functions!!</a>
 </p>
 
