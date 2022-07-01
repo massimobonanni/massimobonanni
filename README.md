@@ -38,6 +38,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2022
 ### June
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220616.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>24/06/2022 - Azure Day 2022 - Le peripezie di una telemetria dal device al backend Serverless</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220616.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>16/06/2022 - DotNetCode meetup - Bicep o Terraform, questo è il dilemma...</a>
 </p>
 
