@@ -156,21 +156,15 @@ I'm passionate about biking, reading, and dogs!!
 
 ## :eyes: Repositories visitors
 
-
-![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureFunctionOpenAPI&repository=massimobonanni.AzureFunctionOpenAPI)
-
-![](https://countrush-prod.azurewebsites.net/l/badge/?label=SQLServerless&repository=massimobonanni.SQLServerless)
-
-![](https://countrush-prod.azurewebsites.net/l/badge/?label=SantaClausSmartworkController&repository=massimobonanni.SantaClausSmartworkController)
-
-![](https://countrush-prod.azurewebsites.net/l/badge/?label=BicepDemo&repository=massimobonanni.BicepDemo )
-
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureDurableFunctionsSuccinctly&repository=massimobonanni.AzureDurableFunctionsSuccinctly)
-
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureFunctionOpenAPI&repository=massimobonanni.AzureFunctionOpenAPI)
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureFunctionsSamples&repository=massimobonanni.AzureFunctionsSamples)
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=BicepDemo&repository=massimobonanni.BicepDemo )
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=Carbonara-Recognizer&repository=massimobonanni.Carbonara-Recognizer)
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=OrderManagerServerless&repository=massimobonanni.OrderManagerServerless)
-
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=SantaClausSmartworkController&repository=massimobonanni.SantaClausSmartworkController)
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=ServerlessFacesAnalyzer&repository=massimobonanni.ServerlessFacesAnalyzer)
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=ServerlessIoT&repository=massimobonanni.ServerlessIoT)
-
-![](https://countrush-prod.azurewebsites.net/l/badge/?label=StatefulPatternFunctions&repository=massimobonanni.StatefulPatternFunctions)
-
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=ServerlessTicketingService&repository=massimobonanni.ServerlessTicketingService)
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=SQLServerless&repository=massimobonanni.SQLServerless)
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=StatefulPatternFunctions&repository=massimobonanni.StatefulPatternFunctions)
