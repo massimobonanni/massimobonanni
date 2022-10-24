@@ -35,7 +35,7 @@ I'm passionate about biking, reading, and dogs!!
 
 ## :speech_balloon: Technical Sessions
 
-### 2022
+### 2022 
 ### October
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20221018-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>18/10/2022 - WPC 2022 - Sai riconoscere una carbonara? Le Azure Functions si!</a>
