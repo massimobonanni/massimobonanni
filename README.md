@@ -38,6 +38,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2022 
 ### October
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20221027.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>27/10/2022 - CloudDay Milano 2022 - Attribute-Based Access Control...non solo ruoli in Azure access control!!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20221025.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>25/10/2022 - #PitchOnline meetup (SharpCoding community) - Realizzare un servizio di ticketing Serverless in Azure</a>
 </p>
 
