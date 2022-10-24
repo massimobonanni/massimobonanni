@@ -38,6 +38,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2022 
 ### October
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20221022.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>22/10/2022 - DevOps Heroes 2022 - Bicep vs Terraform: la battaglia dell'IaC su Azure!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20221018-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>18/10/2022 - WPC 2022 - Sai riconoscere una carbonara? Le Azure Functions si!</a>
 </p>
 
