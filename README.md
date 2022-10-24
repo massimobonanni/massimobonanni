@@ -36,6 +36,15 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2022
+### October
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20221018-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>18/10/2022 - WPC 2022 - Sai riconoscere una carbonara? Le Azure Functions si!</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20221018-1.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>18/10/2022 - WPC 2022 - Attribute-Based Access Control...non solo ruoli in Azure access control!</a>
+</p>
+
 ### September
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220917-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>17/09/2022 - IoT AI Summit Bulgaria 2022 - Cognitive Services and Serverless together for AI solutions</a>
