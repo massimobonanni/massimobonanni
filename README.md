@@ -36,6 +36,11 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2022 
+### November
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20221118.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>18/11/2022 - A.I. Day 2022 - ServerlessAI ovvero quando le tecnologie Serverless incontrano i Cognitive Services!!</a>
+</p>
+
 ### October
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20221027.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>27/10/2022 - CloudDay Milano 2022 - Attribute-Based Access Control...non solo ruoli in Azure access control!!</a>
