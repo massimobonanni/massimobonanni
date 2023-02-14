@@ -38,6 +38,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2023 
 #### March
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230310.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 10/03/2023 - .NET Conference 2023 - L'actor model secondo Durable Functions e .NET!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230303.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 03/03/2023 - WeBuild 2023 - Modernizzare i tuoi web service con Azure API Management</a>
 </p>
 
