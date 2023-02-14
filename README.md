@@ -36,6 +36,11 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2023 
+#### March
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230303.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 03/03/2023 - WeBuild 2023 - Modernizzare i tuoi web service con Azure API Management</a>
+</p>
+
 #### February
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230225.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 25/02/2023 - Global AI + Power Platform Bootcamps 2023 Lisboa - Cognitive Services and Serverless together for AI solutions</a>
