@@ -41,6 +41,10 @@ I'm passionate about biking, reading, and dogs!!
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230225.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 25/02/2023 - Global AI + Power Platform Bootcamps 2023 Lisboa - Cognitive Services and Serverless together for AI solutions</a>
 </p>
 
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230214.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 14/02/2023 - DevOps Time - Bicep e DevOps: la coppia vincente nell'IaC su Azure!</a>
+</p>
+
 ### [2022 -->](TechnicalSessions2022.md)
 ### [2021 -->](TechnicalSessions2021.md)
 ### [2020 -->](TechnicalSessions2020.md)
