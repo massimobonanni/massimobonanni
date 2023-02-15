@@ -38,7 +38,7 @@ I'm passionate about biking, reading, and dogs!!
 ### 2023 
 #### March
 <p>
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230316.md"> <img width="25" src="https://github.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 16/03/2023 - Web Day 2023 - Mini CDN economica e scalabile con Azure Storage Account</a>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230316.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 16/03/2023 - Web Day 2023 - Mini CDN economica e scalabile con Azure Storage Account</a>
 </p>
 
 <p>
