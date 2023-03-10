@@ -90,7 +90,7 @@ I'm passionate about biking, reading, and dogs!!
     </tr>
     <tr>
         <td align="left" valign="top">
-            Publication date: <b>January 2021</b>
+            Publication date: <b>January 2022</b>
             <br/>
             Publisher: <b>Syncfusion</b>
             <br/>
