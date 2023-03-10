@@ -46,6 +46,10 @@ I'm passionate about biking, reading, and dogs!!
 </p>
 
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230309.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 09/03/2023 - UGIdotNET SmallTalks - Azure Governance: la potenza è nulla senza controllo!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230303.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 03/03/2023 - SharpCoding 2023 - Modernizzare i tuoi web service con Azure API Management</a>
 </p>
 
