@@ -36,6 +36,16 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2023 
+#### May
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230520.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 20/05/2023 - XeOneDay (XeDotNet) - Modernizzare i tuoi web service con Azure API Management</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230316.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 16/03/2023 - Web Day 2023 - Mini CDN economica e scalabile con Azure Storage Account</a>
+</p>
+
 #### March
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230316.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 16/03/2023 - Web Day 2023 - Mini CDN economica e scalabile con Azure Storage Account</a>
