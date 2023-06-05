@@ -139,7 +139,7 @@ I'm passionate about biking, reading, and dogs!!
 
 ## :eyes: Repositories visitors
 
-![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureDurableFunctionsSuccinctly&repository=massimobonanni.AzureDurableFunctionsSuccinctly)
+![AzureDurableFunctionsSuccinctly](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureDurableFunctionsSuccinctly&repository=massimobonanni.AzureDurableFunctionsSuccinctly)
 
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureFunctionOpenAPI&repository=massimobonanni.AzureFunctionOpenAPI)
 
