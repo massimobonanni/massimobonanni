@@ -12,6 +12,10 @@ I'm passionate about biking, reading, and dogs!!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X65UAGO)
 
 -----
+
+[![Massimobonanni’s github stats](https://github-readme-stats.vercel.app/api?username=massimobonanni)](https://github.com/massimobonanni)
+
+-----
 ## 🔗 Links
 <p align="center">
     <a href="mailto:massimo.bonanni@tiscali.it">
