@@ -40,6 +40,11 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2023 
+#### August
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230805.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 05/08/2023 - Scottish Summit 2023 - From RTOS to Serverless: the journey of a telemetry!</a>
+</p>
+
 #### June
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230623.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 23/06/2023 - AzureDay 2023 - This is the way: distribuire contenuti efficacemente con Azure Storage Account!</a>
