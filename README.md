@@ -40,6 +40,11 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2023 
+#### October
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231015.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 14/10/2023 - Azure Day Torino 2023 - Che l'attributo sia con te! ABAC, non solo ruoli in Azure!!</a>
+</p>
+
 #### September
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20230930.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 30/09/2023 - 1nn0va Saturday 2023 - Attribute-Based Access Control...non solo ruoli in Azure access control!!</a>
