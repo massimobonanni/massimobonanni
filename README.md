@@ -42,7 +42,11 @@ I'm passionate about biking, reading, and dogs!!
 ### 2023 
 #### October
 <p>
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231015.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 14/10/2023 - Azure Day Torino 2023 - Che l'attributo sia con te! ABAC, non solo ruoli in Azure!!</a>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231021.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 21/10/2023 - DevOps Heroes Parma 2023 - La [sottile] arte di testare le Durable Functions!!</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231014.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 14/10/2023 - Azure Day Torino 2023 - Che l'attributo sia con te! ABAC, non solo ruoli in Azure!!</a>
 </p>
 
 #### September
