@@ -192,7 +192,7 @@ I'm passionate about biking, reading, and dogs!!
 
 ## :eyes: Repositories visitors
 
-![AzureDurableFunctionsSuccinctly](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureDurableFunctionsSuccinctly&repository=massimobonanni.AzureDurableFunctionsSuccinctly)
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureDurableFunctionsSuccinctly&repository=massimobonanni.AzureDurableFunctionsSuccinctly)
 
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=AzureFunctionOpenAPI&repository=massimobonanni.AzureFunctionOpenAPI)
 
@@ -206,6 +206,12 @@ I'm passionate about biking, reading, and dogs!!
 
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=SantaClausSmartworkController&repository=massimobonanni.SantaClausSmartworkController)
 
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=ServerlessBlobManager&repository=massimobonanni.ServerlessBlobManager)
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=ServerlessCakesDetector&repository=massimobonanni.ServerlessCakesDetector)
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=ServerlessCarRent&repository=massimobonanni.ServerlessCarRent)
+
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=ServerlessFacesAnalyzer&repository=massimobonanni.ServerlessFacesAnalyzer)
 
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=ServerlessIoT&repository=massimobonanni.ServerlessIoT)
@@ -215,3 +221,7 @@ I'm passionate about biking, reading, and dogs!!
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=SQLServerless&repository=massimobonanni.SQLServerless)
 
 ![](https://countrush-prod.azurewebsites.net/l/badge/?label=StatefulPatternFunctions&repository=massimobonanni.StatefulPatternFunctions)
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=StorageContentPlatform&repository=massimobonanni.StorageContentPlatform)
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?label=XmasLetterAnalyzer&repository=massimobonanni.XmasLetterAnalyzer)
