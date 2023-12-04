@@ -40,6 +40,32 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2023 
+#### December
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231201.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 01/12/2023 - NG Summit Rome 2023 -  Implement the backend of your application with Azure Functions, NodeJS!</a>
+</p>
+
+#### November
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231128.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 28/11/2023 - WPC 2023 -  Easy-Auth: autenticazione multi-provider nei tuoi App Service in 4 mosse!!!</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231124.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 24/11/2023 - AI Day 2023 -  AI generativa a supporto della formazione: l'evoluzione del training!</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231116-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 16/11/2023 - Cloud Conference Italia -  Dati non strutturati nel posto giusto e al giusto costo con Azure Storage Account!</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231116-1.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 16/11/2023 - Cloud Conference Italia -  Automatizzare Azure con tecnologie Serverless</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231113.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 13/11/2023 - Serverless Italy Meetup -  Automatizzare Azure con tecnologie Serverless</a>
+</p>
+
 #### October
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231021.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 21/10/2023 - DevOps Heroes Parma 2023 - La [sottile] arte di testare le Durable Functions!!</a>
