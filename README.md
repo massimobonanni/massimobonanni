@@ -42,7 +42,11 @@ I'm passionate about biking, reading, and dogs!!
 ### 2023 
 #### December
 <p>
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231201.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 01/12/2023 - NG Summit Rome 2023 -  Implement the backend of your application with Azure Functions, NodeJS!</a>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231215.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 15/12/2023 - Xmas Dev 2023 -  Babbo Natale, AI e le letterine dei bimbi!</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20231201.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 01/12/2023 - NG Summit Rome 2023 -  Implement the backend of your application with Azure Functions, Node.JS!</a>
 </p>
 
 #### November
