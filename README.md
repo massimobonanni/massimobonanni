@@ -42,6 +42,11 @@ I'm passionate about biking, reading, and dogs!!
 ### 2024 
 #### March
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240309.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 09/03/2024 - GlobalAI Bootcamp Lisbon 2024 - AI-powered data extraction: Azure OpenAI vs Document Intelligence!</a>
+</p>
+
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240301.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 01/03/2024 - SharpCoding Conf - Easy-Auth: integrare l'autenticazione multi-provider nei tuoi App Service in modo semplice!</a>
 </p>
 
