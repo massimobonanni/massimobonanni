@@ -42,6 +42,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2024 
 #### March
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240322.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 22/03/2024 - .NET Conference Rome - Azure Functions e .NET 8.0: funzioni da paura!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240309.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 09/03/2024 - GlobalAI Bootcamp Lisbon 2024 - AI-powered data extraction: Azure OpenAI vs Document Intelligence!</a>
 </p>
 
