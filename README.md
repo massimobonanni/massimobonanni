@@ -42,6 +42,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2024
 #### April
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240420.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 20/04/2024 - Global Azure Bootcamp Torino 2024 - Azure Storage Actions, quando la gestione dei dati diventa Serverless!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240418.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 18/04/2024 - Global Azure Bootcamp Milano 2024 - Implementare strategie di DevOps con le funzionalità built-in di Azure App Service</a>
 </p>
 
