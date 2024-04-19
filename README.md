@@ -39,7 +39,12 @@ I'm passionate about biking, reading, and dogs!!
 
 ## :speech_balloon: Technical Sessions
 
-### 2024 
+### 2024
+#### April
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240418.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 18/04/2024 - Global Azure Bootcamp Milano 2024 - Implementare strategie di DevOps con le funzionalità built-in di Azure App Service</a>
+</p>
+
 #### March
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240327.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 27/03/2024 - Web Day 2024 - Easy-Auth: il modo più semplice per integrare l'autenticazione multi-provider nei tuoi App Service</a>
