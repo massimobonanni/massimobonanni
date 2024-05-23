@@ -42,6 +42,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2024
 #### May
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240522.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 22/05/2024 - SharpCoding Meetup - AI-powered data extraction: Azure OpenAI vs Document Intelligence!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240520.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 20/05/2024 - CyberWise Con 2024 - Easy-Auth: the easiest way to secure your application in Azure App Service</a>
 </p>
 
