@@ -42,6 +42,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2024
 #### May
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240531.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 31/05/2024 - Tabya Conf 2024 - Azure AI Services: non solo GPT tra gli strumenti per le nostre applicazioni intelligenti!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240522.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 22/05/2024 - SharpCoding Meetup - AI-powered data extraction: Azure OpenAI vs Document Intelligence!</a>
 </p>
 
