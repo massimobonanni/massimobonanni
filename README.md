@@ -40,6 +40,11 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2024
+#### June
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240614.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 14/06/2024 - SQL Start 2024 - Estrarre i dati utilizzando l'AI: Azure OpenAI vs Document Intelligence!</a>
+</p>
+
 #### May
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240531.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 31/05/2024 - Tabya Conf 2024 - Azure AI Services: non solo GPT tra gli strumenti per le nostre applicazioni intelligenti!</a>
