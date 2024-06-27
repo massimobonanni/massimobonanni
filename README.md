@@ -42,6 +42,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2024
 #### June
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240621.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 21/06/2024 - Azure OpenAI vs Document Intelligence: la battaglia dell'estrazione dati!!!!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240615.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 15/06/2024 - We Make Future 2024 - Automating Azure with Serverless Technologies</a>
 </p>
 
