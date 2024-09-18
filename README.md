@@ -42,6 +42,14 @@ I'm passionate about biking, reading, and dogs!!
 ### 2024
 #### July
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240730.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 30/07/2024 - Azure Cloud Commander Learning Room - Azure Automation with Azure Monitor and Logic Apps</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240716.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 16/07/2024 - Azure Cloud Commander Learning Room - Azure Automation with Azure Functions and Event Grid</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20240702.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 02/07/2024 - Developer Week 2024 - Serverless Actor Model with Durable Functions!</a>
 </p>
 
