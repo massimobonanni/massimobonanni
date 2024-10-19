@@ -42,6 +42,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2024
 #### October
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20241018.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 18/10/2024 - Scottish Summit 2024 - Unleashing the power of Azure Storage Actions: a Serverless data management platform</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20241005.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 05/10/2024 - Data Saturday Sofia - Unleashing the power of Azure Storage Actions: a Serverless data management platform</a>
 </p>
 
