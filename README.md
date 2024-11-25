@@ -40,6 +40,11 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2024
+#### November
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20241018.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 23/11/2024 - Data Saturday Parma 2024 - Non sottovalutare la potenza dello Storage Account!!!!</a>
+</p>
+
 #### October
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20241018.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 18/10/2024 - Scottish Summit 2024 - Unleashing the power of Azure Storage Actions: a Serverless data management platform</a>
