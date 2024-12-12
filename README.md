@@ -42,7 +42,15 @@ I'm passionate about biking, reading, and dogs!!
 ### 2024
 #### November
 <p>
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20241018.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 23/11/2024 - Data Saturday Parma 2024 - Non sottovalutare la potenza dello Storage Account!!!!</a>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20241126-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 26/11/2024 - WPC 2024 Milano - Personalizza la tua AI: model fine-tuning con i tuoi dati in Azure OpenAI</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20241126-1.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 26/11/2024 - WPC 2024 Milano - Rivoluziona la gestione di Azure con Microsoft Copilot</a>
+</p>
+
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20241123.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 23/11/2024 - Data Saturday Parma 2024 - Non sottovalutare la potenza dello Storage Account!!!!</a>
 </p>
 
 #### October
