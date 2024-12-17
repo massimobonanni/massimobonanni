@@ -40,6 +40,11 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2024
+#### December
+<p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20241213.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 13/12/2024 - XmasDev 2024 Roma - Proteggere il Laboratorio Segreto di Babbo Natale con Azure Face Service!</a>
+</p>
+
 #### November
 <p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20241126-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 26/11/2024 - WPC 2024 Milano - Personalizza la tua AI: model fine-tuning con i tuoi dati in Azure OpenAI</a>
