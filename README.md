@@ -45,11 +45,12 @@ I'm passionate about biking, reading, and dogs!!
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250110.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 10/01/2025 - Bonanni a Tutti - Ignite ed ignoto</a>
 </p>
 
-### [2024 -->](TechnicalSessions2024.md)
-### [2023 -->](TechnicalSessions2023.md)
-### [2022 -->](TechnicalSessions2022.md)
-### [2021 -->](TechnicalSessions2021.md)
-### [2020 -->](TechnicalSessions2020.md)
+### Previous years
+#### [2024 -->](TechnicalSessions2024.md)
+#### [2023 -->](TechnicalSessions2023.md)
+#### [2022 -->](TechnicalSessions2022.md)
+#### [2021 -->](TechnicalSessions2021.md)
+#### [2020 -->](TechnicalSessions2020.md)
 
 ----
 
