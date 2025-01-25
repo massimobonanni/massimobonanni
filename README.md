@@ -42,6 +42,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2025
 #### January
 <p>
+<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250125.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 25/01/2025 - .NET Saturday Pordenone - Microsoft.Extensions.AI: un API per domarli tutti!!!</a>
+</p>
+
+<p>
 <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250110.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 10/01/2025 - Bonanni a Tutti - Ignite ed ignoto</a>
 </p>
 
