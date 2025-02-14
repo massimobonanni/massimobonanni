@@ -1,6 +1,5 @@
-<center>
+
 ![banner](https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/banner.jpg)
-</center>
 
 ----
 ## 🚀 About Me
