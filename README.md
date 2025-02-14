@@ -1,4 +1,6 @@
-![](https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/banner.jpg)
+<center>
+  <img src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/banner.jpg" alt="banner" />
+</center>
 
 ----
 ## 🚀 About Me
