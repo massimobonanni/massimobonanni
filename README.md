@@ -1,7 +1,7 @@
-
 ![banner](https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/banner.jpg)
 
 ----
+
 ## 🚀 About Me
 
 I'm Azure Technical Trainer at Microsoft and I spend my job time helping customers to empower their Azure skills to achieve more and leverage the power of Azure better in their solutions.
@@ -12,12 +12,14 @@ I'm passionate about biking, reading, and dogs!!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X65UAGO)
 
------
+----
 
 [![Massimobonanni’s github stats](https://github-readme-stats.vercel.app/api?username=massimobonanni)](https://github.com/massimobonanni)
 
------
+----
+
 ## 🔗 Links
+
 <p align="center">
     <a href="mailto:massimo.bonanni@tiscali.it">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/mail.svg"/>
@@ -36,18 +38,26 @@ I'm passionate about biking, reading, and dogs!!
     </a>
 </p>
 
------
+----
 
 ## :speech_balloon: Technical Sessions
 
 ### 2025
-#### January
+
+#### February
+
 <p>
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250125.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 25/01/2025 - .NET Saturday Pordenone - Microsoft.Extensions.AI: un API per domarli tutti!!!</a>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250221.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 21/02/2025 - A.I. Day 2025 Roma - Personalizza la tua AI: model fine-tuning con i tuoi dati in Azure OpenAI</a>
+</p>
+
+#### January
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250125.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 25/01/2025 - .NET Saturday Pordenone - Microsoft.Extensions.AI: un API per domarli tutti!!!</a>
 </p>
 
 <p>
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250110.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 10/01/2025 - Bonanni a Tutti - Ignite ed ignoto</a>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250110.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 10/01/2025 - Bonanni a Tutti - Ignite ed ignoto</a>
 </p>
 
 ### Previous years
