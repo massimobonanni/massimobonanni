@@ -30,6 +30,9 @@ I'm passionate about biking, reading, and dogs!!
     <a href="https://twitter.com/massimobonanni">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/x.svg">
     </a>&nbsp;&nbsp;
+    <a href="https://bsky.app/profile/massimobonanni.bsky.social">
+        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/bluesky.svg">
+    </a>&nbsp;&nbsp;
     <a href="https://sessionize.com/massimobonanni/">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/sessionize.png">
     </a>&nbsp;&nbsp;
