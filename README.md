@@ -53,6 +53,10 @@ I'm passionate about biking, reading, and dogs!!
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250221.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 21/02/2025 - A.I. Day 2025 Roma - Personalizza la tua AI: model fine-tuning con i tuoi dati in Azure OpenAI</a>
 </p>
 
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250214.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 14/02/2025 - Live Coding - Live Coding: alla scoperta di Microsoft.Extensions.AI</a>
+</p>
+
 #### January
 
 <p>
