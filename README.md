@@ -50,6 +50,14 @@ I'm passionate about biking, reading, and dogs!!
 #### February
 
 <p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250228-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 28/02/2025 - SharpCoding 2025 Roma - Scrivere software manutenibile e flessibile con Microsoft.Extensions.AI</a>
+</p>
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250228-1.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 28/02/2025 - SharpCoding 2025 Roma - "Houston, abbiamo un Copilot!". L’IA che rivoluziona la gestione di Azure</a>
+</p>
+
+<p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250221.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 21/02/2025 - A.I. Day 2025 Roma - Personalizza la tua AI: model fine-tuning con i tuoi dati in Azure OpenAI</a>
 </p>
 
