@@ -101,7 +101,7 @@ I'm passionate about biking, reading, and dogs!!
     </tr>
     <tr>
         <td align="left" valign="top">
-            Publication date: <b>October 2025</b>
+            Publication date: <b>October 2024</b>
             <br/>
             Publisher: <b>BPB Online</b>
             <br/>
