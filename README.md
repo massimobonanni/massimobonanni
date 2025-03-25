@@ -47,6 +47,16 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2025
 
+#### March
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250322.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 22/03/2025 - GlobalAI Bootcamp 2025 Lisbon - Microsoft.Extensions.AI: an API to rule them all!!!</a>
+</p>
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250320.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 20/03/2025 - GlobalAI Bootcamp 2025 Coimbra - Microsoft.Extensions.AI: an API to rule them all!!! (Coimbra edition)</a>
+</p>
+
 #### February
 
 <p>
