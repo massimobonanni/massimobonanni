@@ -50,6 +50,10 @@ I'm passionate about biking, reading, and dogs!!
 #### April
 
 <p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250414.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 14/04/2025 - Codemotion 2025 Roma - Innova la gestione di Azure con Copilot in Azure</a>
+</p>
+
+<p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250411.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 11/04/2025 - .NET Conference 2025 Roma - Sviluppo AI in .NET: un’unica API per OpenAI, Azure OpenAI, GitHub models....e non solo!!!</a>
 </p>
 
