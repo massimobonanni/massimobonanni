@@ -47,6 +47,12 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2025
 
+#### April
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250411.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 11/04/2025 - .NET Conference 2025 Roma - Sviluppo AI in .NET: un’unica API per OpenAI, Azure OpenAI, GitHub models....e non solo!!!</a>
+</p>
+
 #### March
 
 <p>
