@@ -47,7 +47,17 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2025
 
+#### May
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250414.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 14/04/2025 - Codemotion 2025 Roma - Innova la gestione di Azure con Copilot in Azure</a>
+</p>
+
 #### April
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250416.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 16/04/2025 - SharpCoding meetup Roma - Personalize your AI: model Fine-Tune with your data in Azure OpenAI</a>
+</p>
 
 <p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250414.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 14/04/2025 - Codemotion 2025 Roma - Innova la gestione di Azure con Copilot in Azure</a>
