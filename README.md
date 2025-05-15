@@ -50,7 +50,7 @@ I'm passionate about biking, reading, and dogs!!
 #### May
 
 <p>
-    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250512.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 12/05/2025 - Global Azure 2025 MIlano - DevBox vs. Codespaces: la battaglia per l'ambiente di sviluppo perfetto!</a>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250512.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 12/05/2025 - Global Azure 2025 Milano - Rivoluziona la gestione di Azure con Copilot in Azure</a>
 </p>
 
 <p>
