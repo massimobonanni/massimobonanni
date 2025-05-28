@@ -48,6 +48,9 @@ I'm passionate about biking, reading, and dogs!!
 ### 2025
 
 #### May
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250528.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 22/05/2025 - European AI and Cloud Summit 2025 Düsseldorf - Personalize your AI: model Fine-Tune with your data in Azure OpenAI</a>
+</p>
 
 <p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250522.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 22/05/2025 - DevDays Europe 2025 Vilnius - Face It: How Azure Face Service Can Help You Recognize and Identify Faces</a>
