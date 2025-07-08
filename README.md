@@ -49,6 +49,10 @@ I'm passionate about biking, reading, and dogs!!
 
 #### June
 <p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250620.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 20/06/2025 - Azure Day 2025 Roma - Un gateway per domarli tutti: dominare le architetture AI con Azure API Management</a>
+</p>
+
+<p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250606.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 06/06/2025 - We Make Future Bologna - Un gateway per domarli tutti: dominare le architetture AI con Azure API Management</a>
 </p>
 
