@@ -47,6 +47,11 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2025
 
+### August
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250824.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 24/08/2025 - Paestum Tech Days 2025 - Come usare l'AI per migliorare apprendimento e formazione</a>
+</p>
+
 #### June
 <p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250620.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 20/06/2025 - Azure Day 2025 Roma - Un gateway per domarli tutti: dominare le architetture AI con Azure API Management</a>
