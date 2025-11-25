@@ -49,6 +49,10 @@ I'm passionate about biking, reading, and dogs!!
 
 ### November
 <p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20251119.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 19/11/2025 - Sharp Coding Meetup Roma - Coding anywhere: sviluppare ovunque con GitHub Codespaces</a>
+</p>
+
+<p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20251113.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 13/11/2025 - Update Conference 2025 Prague - Personalize your AI: model Fine-Tune with your data in Azure OpenAI</a>
 </p>
 
