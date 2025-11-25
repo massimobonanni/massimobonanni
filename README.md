@@ -47,6 +47,11 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2025
 
+### November
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20251113.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 13/11/2025 - Update Conference 2025 Prague - Personalize your AI: model Fine-Tune with your data in Azure OpenAI</a>
+</p>
+
 ### October
 <p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20251023.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 23/10/2025 - Cloud Conference Italia 2025 Treviso - DevBox vs Codespaces: fighting for the perfect development environment!</a>
