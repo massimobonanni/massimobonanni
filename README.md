@@ -47,6 +47,11 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2025
 
+### October
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20251003.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 03/10/2025 - Sharp4Dev 2025 Roma - Dal prompt alla produzione: prova, confronta, valida, integra con GitHub Models</a>
+</p>
+
 ### September
 <p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20250927.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 27/09/2025 - 1nn0vAI 2025 Pordenone - Rivoluziona la gestione di Azure con Copilot</a>
