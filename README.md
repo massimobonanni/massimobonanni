@@ -49,6 +49,10 @@ I'm passionate about biking, reading, and dogs!!
 
 ### October
 <p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20251023.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 23/10/2025 - Cloud Conference Italia 2025 Treviso - DevBox vs Codespaces: fighting for the perfect development environment!</a>
+</p>
+
+<p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20251003.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 03/10/2025 - Sharp4Dev 2025 Roma - Dal prompt alla produzione: prova, confronta, valida, integra con GitHub Models</a>
 </p>
 
