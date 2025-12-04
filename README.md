@@ -49,6 +49,10 @@ I'm passionate about biking, reading, and dogs!!
 
 ### November
 <p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20251128.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 28/11/2025 - .NET Conference 2025 Milano - Oltre la console: creare CLI moderne, testabili e orientate all’esperienza con System.CommandLine</a>
+</p>
+
+<p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20251121.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 21/11/2025 - LIT Meetup Latina - AI generativa a supporto della formazione: l'evoluzione del training!</a>
 </p>
 
