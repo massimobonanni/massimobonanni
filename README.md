@@ -46,6 +46,10 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2025
+### December
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20251204.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 04/12/2025 - WPC 2025 Milano - Una CLI per domarli tutti: il potere di azd!!</a>
+</p>
 
 ### November
 <p>
