@@ -14,7 +14,7 @@ I'm passionate about biking, reading, and dogs!!
 
 ----
 
-[![Massimobonanni’s github stats](https://github-readme-stats.vercel.app/api?username=massimobonanni)](https://github.com/massimobonanni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=massimobonanni&theme=default)
 
 ----
 
