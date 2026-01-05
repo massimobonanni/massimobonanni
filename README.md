@@ -13,30 +13,30 @@ I'm passionate about biking, reading, and dogs!!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X65UAGO)
 
 ----
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=massimobonanni&theme=default)
-
+<p align="center">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=massimobonanni&theme=default)
+</p>
 ----
 
 ## 🔗 Links
 
 <p align="center">
-    <a href="mailto:massimo.bonanni@tiscali.it">
+    <a href="mailto:massimo.bonanni@tiscali.it" style="text-decoration: none;">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/mail.svg"/>
     </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/massimobonanni/">
+    <a href="https://www.linkedin.com/in/massimobonanni/" style="text-decoration: none;">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/linkedin.svg">
     </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/massimobonanni">
+    <a href="https://twitter.com/massimobonanni" style="text-decoration: none;">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/x.svg">
     </a>&nbsp;&nbsp;
-    <a href="https://bsky.app/profile/massimobonanni.bsky.social">
+    <a href="https://bsky.app/profile/massimobonanni.bsky.social" style="text-decoration: none;">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/bluesky.svg">
     </a>&nbsp;&nbsp;
-    <a href="https://sessionize.com/massimobonanni/">
+    <a href="https://sessionize.com/massimobonanni/" style="text-decoration: none;">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/sessionize.png">
     </a>&nbsp;&nbsp;
-        <a href="https://www.youtube.com/playlist?list=PL4S9boN4bjxktXfi0xhFfkcKn0fMfrHyq">
+        <a href="https://www.youtube.com/playlist?list=PL4S9boN4bjxktXfi0xhFfkcKn0fMfrHyq" style="text-decoration: none;">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/youtube.svg">
     </a>
 </p>
