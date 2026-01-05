@@ -13,9 +13,9 @@ I'm passionate about biking, reading, and dogs!!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X65UAGO)
 
 ----
-<p align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=massimobonanni&theme=default)
-</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=massimobonanni&theme=default)
+
 ----
 
 ## 🔗 Links
