@@ -46,7 +46,11 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2026
+#### January
 
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260109.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>09/01/2026 - Bonanni a Tutti - Torino - Bonanni flash!</a>
+</p>
 
 ### Previous years
 #### [2025 -->](TechnicalSessions2025.md)
