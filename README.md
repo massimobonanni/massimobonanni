@@ -47,6 +47,13 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2026
 #### January
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260131-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>31/01/2026 - Data Saturday Copenhagen - Don't underestimate the Azure Storage Account</a>
+</p>
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260131-1.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>31/01/2026 - Data Saturday Copenhagen - Attribute-Based Access Control ... not just roles in Azure access control!!</a>
+</p>
 
 <p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260109.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>09/01/2026 - Bonanni a Tutti - Torino - Bonanni flash!</a>
