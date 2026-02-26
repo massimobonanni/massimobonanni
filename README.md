@@ -48,6 +48,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2026
 #### February
 <p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260219.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>20/02/2026 - .NET Conference 2026 - Sviluppare tool leggeri e testabili con System.CommandLine</a>
+</p>
+
+<p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260219.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>19/02/2026 - Road To Coderful - Un viaggio nello stack Microsoft AI e Azure</a>
 </p>
 
