@@ -46,6 +46,12 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2026
+#### February
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260219.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>19/02/2026 - Road To Coderful - Un viaggio nello stack Microsoft AI e Azure</a>
+</p>
+
+
 #### January
 <p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260131-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>31/01/2026 - Data Saturday Copenhagen - Don't underestimate the Azure Storage Account</a>
