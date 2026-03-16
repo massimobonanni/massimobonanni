@@ -43,7 +43,6 @@ I'm passionate about biking, reading, and dogs!!
     </a>
 </p>
 
-----
 
 ## :speech_balloon: Technical Sessions
 
