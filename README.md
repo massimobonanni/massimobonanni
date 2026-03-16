@@ -1,7 +1,8 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/banner.jpg"/>
+    <img src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/banner.jpg"/>
 </div>
 ----
+
 
 ## 🚀 About Me
 
@@ -23,22 +24,22 @@ I'm passionate about biking, reading, and dogs!!
 
 <p align="center">
     <a href="mailto:massimo.bonanni@tiscali.it" style="text-decoration: none;">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/mail.svg"/>
+        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/mail.svg"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/massimobonanni/" style="text-decoration: none;">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/linkedin.svg">
+        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/linkedin.svg">
     </a>&nbsp;&nbsp;
     <a href="https://twitter.com/massimobonanni" style="text-decoration: none;">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/x.svg">
+        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/x.svg">
     </a>&nbsp;&nbsp;
     <a href="https://bsky.app/profile/massimobonanni.bsky.social" style="text-decoration: none;">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/bluesky.svg">
+        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/bluesky.svg">
     </a>&nbsp;&nbsp;
     <a href="https://sessionize.com/massimobonanni/" style="text-decoration: none;">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/sessionize.png">
+        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/sessionize.png">
     </a>&nbsp;&nbsp;
         <a href="https://www.youtube.com/playlist?list=PL4S9boN4bjxktXfi0xhFfkcKn0fMfrHyq" style="text-decoration: none;">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/youtube.svg">
+        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/youtube.svg">
     </a>
 </p>
 
