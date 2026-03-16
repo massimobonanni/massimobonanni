@@ -1,6 +1,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/banner.jpg"/>
 </div>
+
 ----
 
 
@@ -43,6 +44,7 @@ I'm passionate about biking, reading, and dogs!!
     </a>
 </p>
 
+----
 
 ## :speech_balloon: Technical Sessions
 
