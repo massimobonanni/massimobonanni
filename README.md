@@ -48,6 +48,10 @@ I'm passionate about biking, reading, and dogs!!
 ### 2026
 #### March
 <p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260316.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>16/03/2026 - AI Infrastructure Summit 2026 - Empowering LLMs with your own data – RAG, function tooling, and fine-tuning in practice</a>
+</p>
+
+<p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260307.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>07/03/2026 - DataSaturday Timisoara - Don't Underestimate the Azure Storage Account</a>
 </p>
 
