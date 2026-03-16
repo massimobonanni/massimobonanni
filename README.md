@@ -48,6 +48,14 @@ I'm passionate about biking, reading, and dogs!!
 ### 2026
 #### February
 <p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260227-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>27/02/2026 - SharpCoding 2026 - Continuous AI in pratica: dal prompt al deploy con GitHub Models</a>
+</p>
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260227-1.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>27/02/2026 - SharpCoding 2026 - Zero setup, zero scuse: sviluppare ovunque con GitHub Codespaces</a>
+</p>
+
+<p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260220.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>20/02/2026 - .NET Conference 2026 - Sviluppare tool leggeri e testabili con System.CommandLine</a>
 </p>
 
