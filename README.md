@@ -50,8 +50,12 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2026
 
-
 #### March
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260330.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>30/03/2026 - Adriatics Tech Summit 2026 - Unlocking Custom AI: Fine-Tuning Azure OpenAI Models with Your Data</a>
+</p>
+
 <p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260325.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>25/03/2026 - Latina In Tech Meetup - Onboard Developers in 5 Minutes</a>
 </p>
