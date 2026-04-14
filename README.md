@@ -49,7 +49,13 @@ I'm passionate about biking, reading, and dogs!!
 ## :speech_balloon: Technical Sessions
 
 ### 2026
+
+
 #### March
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260325.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>25/03/2026 - Latina In Tech Meetup - Onboard Developers in 5 Minutes</a>
+</p>
+
 <p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260316.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>16/03/2026 - AI Infrastructure Summit 2026 - Empowering LLMs with your own data – RAG, function tooling, and fine-tuning in practice</a>
 </p>
