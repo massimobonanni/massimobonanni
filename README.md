@@ -50,6 +50,16 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2026
 
+#### May
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260505-1.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>05/05/2026 - European Cloud Summit 2026 Colonia - One CLI to Deploy Them All: Building Smarter on Azure with azd</a>
+</p>
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260505-2.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>05/05/2026 - European Cloud Summit 2026 Colonia - Architecting Intelligent APIs: Unifying AI Services with Azure API Management</a>
+</p>
+
 #### April
 
 <p>
