@@ -53,6 +53,10 @@ I'm passionate about biking, reading, and dogs!!
 #### May
 
 <p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260516.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>16/05/2026 - L'Aquila Tech Forum 2026 - Microsoft Foundry 101: le basi per costruire soluzioni AI</a>
+</p>
+
+<p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260505-1.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>05/05/2026 - European Cloud Summit 2026 Colonia - One CLI to Deploy Them All: Building Smarter on Azure with azd</a>
 </p>
 
