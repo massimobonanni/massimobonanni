@@ -53,6 +53,10 @@ I'm passionate about biking, reading, and dogs!!
 #### April
 
 <p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260417.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>17/04/2026 - Global Azure 2026 Bari - Una CLI per domarli tutti: il potere di azd!!</a>
+</p>
+
+<p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260413.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>13/04/2026 - Global Azure 2026 Milano - Cinquanta sfumature di Azure Compute!</a>
 </p>
 
