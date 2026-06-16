@@ -51,6 +51,9 @@ I'm passionate about biking, reading, and dogs!!
 ### 2026
 
 #### May
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260527.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>27/05/2026 - SharpCoding meetup - Microsoft Foundry in pratica: progettare applicazioni e agenti AI nell’ecosistema Microsoft</a>
+</p>
 
 <p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260522.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>22/05/2026 - DevDays Europe 2026 Vilnius - Onboard Developers in 5 Minutes: Modern Dev Environments with Codespaces</a>
