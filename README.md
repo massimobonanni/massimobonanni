@@ -50,6 +50,12 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2026
 
+#### June
+
+<p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260609.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>09/06/2026 - #4AI Pescara - GitHub Spark, il vibe coding secondo GitHub!</a>
+</p>
+
 #### May
 
 <p>
