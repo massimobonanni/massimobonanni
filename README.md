@@ -53,6 +53,10 @@ I'm passionate about biking, reading, and dogs!!
 #### June
 
 <p>
+    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260619.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>19/06/2026 - Azure Day 2026 Roma - Progettare applicazioni AI su Azure con Azure AI Foundry</a>
+</p>
+
+<p>
     <a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20260609.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>09/06/2026 - #4AI Pescara - GitHub Spark, il vibe coding secondo GitHub!</a>
 </p>
 

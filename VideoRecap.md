@@ -4,6 +4,7 @@ A complete list of all technical sessions with video recordings available.
 
 | Date | Conference | Title | Language | Video |
 |------|------------|-------|----------|-------|
+| 19/06/2026 | Azure Day 2026 | Progettare applicazioni AI su Azure con Azure AI Foundry | Italian | [Watch](https://youtu.be/HrPdSDLEYfU?t=23890) |
 | 29/05/2026 | TabIA Conf | Forgiare l'AI: soluzioni dal Cloud all'Edge con Azure Foundry | Italian | [Watch](https://www.youtube.com/watch?v=bbhSKCQx8O4) |
 | 22/05/2026 | DevDays Europe 2026 | Onboard Developers in 5 Minutes: Modern Dev Environments with Codespaces | English | [Watch](https://www.youtube.com/watch?v=h6KXtVGfXgE&list=PLqYhGsQ9iSErESEEPdaqdcyxUBhcaGwkV) |
 | 13/04/2026 | Global Azure 2026 | Cinquanta sfumature di Azure Compute! | Italian | [Watch](https://www.azuremeetupmilano.it/video/5005/Cinquanta-sfumature-di-Azure-Compute) |
