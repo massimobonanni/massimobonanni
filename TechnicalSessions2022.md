@@ -19,6 +19,7 @@
 
 ### September
 [<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>17/09/2022 - IoT AI Summit Bulgaria 2022 - Cognitive Services and Serverless together for AI solutions](technicalsessions/20220917-2.md)
+
 [<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>17/09/2022 - IoT AI Summit Bulgaria 2022 - From RTOS to Serverless: the journey of a telemetry!](technicalsessions/20220917-1.md)
 
 
