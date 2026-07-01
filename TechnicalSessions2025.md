@@ -1,7 +1,3 @@
----
----
-
-
 # Technical Sessions 2025
 
 ## December

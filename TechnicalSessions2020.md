@@ -1,7 +1,3 @@
----
----
-
-
 # Technical Sessions 2020
 
 [<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/> 14/12/2020 - .NET Conf 202 - DotNetCode - Writing Stateful patterns with .NET Core](technicalsessions/20201214.md)

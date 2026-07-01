@@ -1,7 +1,3 @@
----
----
-
-
 # Technical Sessions 2023
 
 ### December

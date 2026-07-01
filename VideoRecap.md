@@ -1,6 +1,3 @@
----
----
-
 # 🎬 Video Recap
 
 A complete list of all technical sessions with video recordings available.
