@@ -39,7 +39,13 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        # Build with the baseurl from _config.yml (empty, because the site is
+        # served at the root of the custom domain in CNAME). Do NOT use
+        # ${{ steps.pages.outputs.base_path }} here: for this repo it resolves
+        # to "/massimobonanni" (the project-pages path), which prefixes every
+        # asset/CSS URL and makes them 404 on the custom domain, so the pages
+        # render completely unstyled ("no template").
+        run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
