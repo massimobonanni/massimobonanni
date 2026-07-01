@@ -1,0 +1,37 @@
+title: Massimo Bonanni
+description: >-
+  Azure Technical Trainer @ Microsoft. Technical sessions, talks, videos and
+  slides from local and international events.
+author: Massimo Bonanni
+
+# Custom domain (matches the CNAME file). Root domain => empty baseurl.
+url: "https://massimobonanni.it"
+baseurl: ""
+
+# Theme used to render the pages
+theme: minima
+
+# Markdown engine
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# GitHub Pages default plugin that renders README.md as the site index
+# (no index.md needed).
+plugins:
+  - jekyll-readme-index
+
+# Apply the theme "page" layout to every content page so the Markdown files
+# (VideoRecap, yearly archives, individual sessions) render as styled HTML.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+# Do not process these when building the site
+exclude:
+  - .gitignore
+  - README.md.saved.bak
+  - "*.sln"
+  - "*.saved.bak"
