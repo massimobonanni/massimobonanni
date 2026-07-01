@@ -35,3 +35,6 @@ exclude:
   - README.md.saved.bak
   - "*.sln"
   - "*.saved.bak"
+  - vendor
+  - vendor/bundle
+  - .bundle
