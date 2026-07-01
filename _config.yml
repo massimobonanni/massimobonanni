@@ -11,6 +11,19 @@ baseurl: ""
 # Theme used to render the pages
 theme: minima
 
+# Curate the minima top navigation. Without this, minima lists every page that
+# has a title (all technical-session pages get one via jekyll-titles-from-headings),
+# which floods the home page header with the whole session list. Restrict it to
+# the meaningful top-level pages.
+header_pages:
+  - VideoRecap.md
+  - TechnicalSessions2025.md
+  - TechnicalSessions2024.md
+  - TechnicalSessions2023.md
+  - TechnicalSessions2022.md
+  - TechnicalSessions2021.md
+  - TechnicalSessions2020.md
+
 # Markdown engine
 markdown: kramdown
 kramdown:
