@@ -5,7 +5,7 @@ description: >-
 author: Massimo Bonanni
 
 # Custom domain (matches the CNAME file). Root domain => empty baseurl.
-url: "https://massimobonanni.it"
+url: "https://info.massimobonanni.it"
 baseurl: ""
 
 # Theme used to render the pages
