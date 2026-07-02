@@ -65,6 +65,14 @@ minimal_mistakes_skin: "air"
 # Client-side (lunr) search box in the masthead.
 search: true
 
+# jekyll-titles-from-headings (a default GitHub Pages plugin) derives each page
+# title from its first heading. strip_title removes that leading heading from the
+# body so the title is not shown twice, because the Minimal Mistakes "single"
+# layout already renders page.title as the page header. The README home is
+# unaffected: it starts with an HTML banner, not a heading.
+titles_from_headings:
+  strip_title: true
+
 # Markdown engine
 markdown: kramdown
 kramdown:

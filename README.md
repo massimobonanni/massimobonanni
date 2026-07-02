@@ -118,7 +118,7 @@ I'm passionate about biking, reading, and dogs!!
 ## :books: Books
 
 <table>
-<tr>
+    <tr>
         <td width="300" align="center" valign="top">
             <a href="https://bpbonline.com/products/azure-cookbook-1" target="_blank"><img  src="images/azure-cookbook-bpbonline.jpg" height=300></a>
         </td>
@@ -142,7 +142,8 @@ I'm passionate about biking, reading, and dogs!!
         </td>
     </tr>
     <tr height=50>
-<tr>
+    </tr>
+    <tr>
         <td width="300" align="center" valign="top">
             <a href="https://www.syncfusion.com/succinctly-free-ebooks/azure-durable-functions-succinctly" target="_blank"><img  src="images/azure-durable-functions-succinctly.png" height = 300></a>
         </td>
