@@ -32,21 +32,14 @@ author:
       icon: "fab fa-fw fa-youtube"
       url: "/VideoRecap.html"
 
-# Social links shown in the footer of every page.
+# Footer social links removed. An empty list disables the default footer
+# icons (LinkedIn, X/Twitter, Bluesky, GitHub and the RSS feed).
 footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/massimobonanni/"
-    - label: "X (Twitter)"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/massimobonanni"
-    - label: "Bluesky"
-      icon: "fas fa-fw fa-cloud"
-      url: "https://bsky.app/profile/massimobonanni.bsky.social"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/massimobonanni"
+  links: []
+
+# Hide the RSS feed link that Minimal Mistakes always renders in the footer.
+atom_feed:
+  hide: true
 
 # Custom domain (matches the CNAME file). Root domain => empty baseurl.
 url: "https://info.massimobonanni.it"
