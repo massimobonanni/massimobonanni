@@ -1,0 +1,40 @@
+---
+# This file is generated automatically by Jekyll at every build/publish.
+# It follows the llms.txt convention (https://llmstxt.org) to expose the site
+# content to AI models. Do not add a layout: it must be served as plain text.
+layout: null
+permalink: /llms.txt
+sitemap: false
+---
+# {{ site.title }}
+
+> {{ site.description }}
+
+{{ site.author.bio }} Based in {{ site.author.location }}.
+
+This file lists the public content of {{ site.url }} so that AI models and agents
+can discover and reference the technical sessions, talks, slides and videos
+delivered by {{ site.author.name }}.
+
+## Main pages
+
+- [Home]({{ '/' | absolute_url }}): profile and overview.
+- [Video Recap]({{ '/VideoRecap.html' | absolute_url }}): recorded talks and video highlights.
+
+## Technical sessions by year
+{% assign year_pages = site.pages | where_exp: "p", "p.url contains '/TechnicalSessions'" | sort: "url" | reverse %}
+{% for p in year_pages -%}
+- [{{ p.title | default: p.name }}]({{ p.url | absolute_url }})
+{% endfor %}
+## All technical sessions
+{% capture newline %}
+{% endcapture %}
+{% assign sessions = site.pages | where_exp: "p", "p.url contains '/technicalsessions/'" | sort: "url" | reverse %}
+{% for p in sessions -%}
+{%- assign abstract = "" -%}
+{%- assign after = p.content | split: "Abstract" -%}
+{%- if after.size > 1 -%}
+{%- assign abstract = after[1] | split: "<br" | first | strip_html | replace: newline, " " | replace: "  ", " " | replace: "  ", " " | strip -%}
+{%- endif -%}
+- [{{ p.title | default: p.name }}]({{ p.url | absolute_url }}){% if abstract != "" %}: {{ abstract }}{% endif %}
+{% endfor %}
