@@ -1,28 +1,69 @@
-title: Massimo Bonanni
+title: Massimo Bonanni Profile
 description: >-
   Azure Technical Trainer @ Microsoft. Technical sessions, talks, videos and
   slides from local and international events.
-author: Massimo Bonanni
+author:
+  name: "Massimo Bonanni"
+  bio: "Azure Technical Trainer @ Microsoft. Speaker, biker, reader & dog lover."
+  location: "Italy"
+  # To show a round profile picture, add a square image (e.g. images/avatar.jpg)
+  # and uncomment the line below.
+  # avatar: "/images/avatar.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:massimo.bonanni@tiscali.it"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/massimobonanni/"
+    - label: "X (Twitter)"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://twitter.com/massimobonanni"
+    - label: "Bluesky"
+      icon: "fas fa-fw fa-cloud"
+      url: "https://bsky.app/profile/massimobonanni.bsky.social"
+    - label: "Sessionize"
+      icon: "fas fa-fw fa-microphone-lines"
+      url: "https://sessionize.com/massimobonanni/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/massimobonanni"
+    - label: "Video Recap"
+      icon: "fab fa-fw fa-youtube"
+      url: "/VideoRecap.html"
+
+# Social links shown in the footer of every page.
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/massimobonanni/"
+    - label: "X (Twitter)"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://twitter.com/massimobonanni"
+    - label: "Bluesky"
+      icon: "fas fa-fw fa-cloud"
+      url: "https://bsky.app/profile/massimobonanni.bsky.social"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/massimobonanni"
 
 # Custom domain (matches the CNAME file). Root domain => empty baseurl.
 url: "https://info.massimobonanni.it"
 baseurl: ""
 
-# Theme used to render the pages
-theme: minima
+# Richer theme rendered via GitHub Pages remote_theme (built by the Actions
+# workflow). Minimal Mistakes adds an author sidebar, color skins, a search box
+# and a curated masthead navigation (see _data/navigation.yml). The top nav is
+# no longer driven by header_pages: minima's option is ignored by this theme.
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
-# Curate the minima top navigation. Without this, minima lists every page that
-# has a title (all technical-session pages get one via jekyll-titles-from-headings),
-# which floods the home page header with the whole session list. Restrict it to
-# the meaningful top-level pages.
-header_pages:
-  - VideoRecap.md
-  - TechnicalSessions2025.md
-  - TechnicalSessions2024.md
-  - TechnicalSessions2023.md
-  - TechnicalSessions2022.md
-  - TechnicalSessions2021.md
-  - TechnicalSessions2020.md
+# Minimal Mistakes color skin.
+# Options: default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise.
+minimal_mistakes_skin: "air"
+
+# Client-side (lunr) search box in the masthead.
+search: true
 
 # Markdown engine
 markdown: kramdown
@@ -33,14 +74,20 @@ kramdown:
 # (no index.md needed).
 plugins:
   - jekyll-readme-index
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
-# Apply the theme "page" layout to every content page so the Markdown files
-# (VideoRecap, yearly archives, individual sessions) render as styled HTML.
+# Apply the Minimal Mistakes "single" layout to every content page (the README
+# home, VideoRecap, yearly archives and individual sessions) and show the author
+# profile sidebar with a table of contents on each of them.
 defaults:
   - scope:
       path: ""
     values:
-      layout: page
+      layout: single
+      author_profile: true
+      toc: true
+      toc_sticky: true
 
 # Do not process these when building the site
 exclude:
