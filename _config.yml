@@ -31,6 +31,9 @@ author:
     - label: "Video Recap"
       icon: "fab fa-fw fa-youtube"
       url: "/VideoRecap.html"
+    - label: "Slides Recap"
+      icon: "fab fa-fw fa-file"
+      url: "/SlidesRecap.html"
 
 # Footer social links removed. An empty list disables the default footer
 # icons (LinkedIn, X/Twitter, Bluesky, GitHub and the RSS feed).
