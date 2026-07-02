@@ -70,6 +70,14 @@ minimal_mistakes_skin: "air"
 # Client-side (lunr) search box in the masthead.
 search: true
 
+# The site content lives entirely in regular pages (no posts/collections), so
+# the lunr index must be told to include pages; otherwise it stays empty and
+# search returns nothing. search_full_content indexes the whole page body
+# instead of just the first 50 words.
+lunr:
+  search_within_pages: true
+search_full_content: true
+
 # jekyll-titles-from-headings (a default GitHub Pages plugin) derives each page
 # title from its first heading. strip_title removes that leading heading from the
 # body so the title is not shown twice, because the Minimal Mistakes "single"
