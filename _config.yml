@@ -58,6 +58,11 @@ baseurl: ""
 # no longer driven by header_pages: minima's option is ignored by this theme.
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
+# Masthead logo shown in the top-left corner. masthead_title is set to a single
+# space so the site title text is hidden and only the logo image is displayed.
+logo: "/images/logo.png"
+masthead_title: " "
+
 # Minimal Mistakes color skin.
 # Options: default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise.
 minimal_mistakes_skin: "air"
