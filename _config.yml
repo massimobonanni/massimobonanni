@@ -32,7 +32,7 @@ author:
       icon: "fab fa-fw fa-youtube"
       url: "/VideoRecap.html"
     - label: "Slides Recap"
-      icon: "fab fa-fw fa-file"
+      icon: "fab fa-fw fa-file-powerpoint"
       url: "/SlidesRecap.html"
 
 # Footer social links removed. An empty list disables the default footer
