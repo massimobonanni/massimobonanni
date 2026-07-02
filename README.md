@@ -15,7 +15,7 @@ I'm passionate about biking, reading, and dogs!!
 ----
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=massimobonanni&theme=default"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=massimobonanni&amp;theme=default"/>
 </div>
 
 ----
