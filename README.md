@@ -36,7 +36,7 @@ I'm passionate about biking, reading, and dogs!!
     <a href="https://sessionize.com/massimobonanni/" style="text-decoration: none;">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/sessionize.png">
     </a>
-    <a href="https://github.com/massimobonanni/massimobonanni/blob/master/VideoRecap.md" style="text-decoration: none;">
+    <a href="VideoRecap.md" style="text-decoration: none;">
         <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/youtube.svg">
     </a>
 </p>
