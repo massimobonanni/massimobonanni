@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/banner.jpg" target="_blank" title="Click to open">
-        <img height="350" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/banner.jpg"/>
+    <a href="images/banner.jpg" target="_blank" title="Click to open">
+        <img height="350" src="images/banner.jpg"/>
     </a>
 </div>
 
