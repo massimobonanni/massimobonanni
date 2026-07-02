@@ -46,7 +46,7 @@ I'm passionate about biking, reading, and dogs!!
 
 ----
 
-## :speech_balloon: Technical Sessions
+## 💬 Technical Sessions
 
 ### 2026
 
@@ -115,7 +115,7 @@ I'm passionate about biking, reading, and dogs!!
 
 ----
 
-## :books: Books
+## 📚 Books
 
 <table>
     <tr>
@@ -166,7 +166,7 @@ I'm passionate about biking, reading, and dogs!!
         </td>
     </tr>
     <tr height=50>
-    <tr/>
+    </tr>
     <tr>
         <td width="300" align="center" valign="top">
             <a href="https://www.packtpub.com/product/mastering-azure-serverless-computing/9781789951226" target="_blank"><img  src="https://static.packt-cdn.com/products/9781789951226/cover/smaller"></a>
