@@ -2,6 +2,8 @@
 main:
   - title: "Video Recap"
     url: /VideoRecap.html
+  - title: "Slides Recap"
+    url: /SlidesRecap.html
   - title: "2025"
     url: /TechnicalSessions2025.html
   - title: "2024"

@@ -41,7 +41,10 @@ I'm passionate about biking, reading, and dogs!!
         <img width="50" src="images/sessionize.png">
     </a>
     <a href="VideoRecap.md" style="text-decoration: none;">
-        <img width="50" src="images/youtube.svg">
+        <img width="50" src="images/video.svg">
+    </a>
+    <a href="SlidesRecap.md" style="text-decoration: none;">
+        <img width="50" src="images/slides.svg">
     </a>
 </p>
 
