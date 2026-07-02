@@ -26,22 +26,22 @@ I'm passionate about biking, reading, and dogs!!
 
 <p align="center">
     <a href="mailto:massimo.bonanni@tiscali.it" style="text-decoration: none;">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/mail.svg"/>
+        <img width="50" src="images/mail.svg"/>
     </a>
     <a href="https://www.linkedin.com/in/massimobonanni/" style="text-decoration: none;">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/linkedin.svg">
+        <img width="50" src="images/linkedin.svg">
     </a>
     <a href="https://twitter.com/massimobonanni" style="text-decoration: none;">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/x.svg">
+        <img width="50" src="images/x.svg">
     </a>
     <a href="https://bsky.app/profile/massimobonanni.bsky.social" style="text-decoration: none;">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/bluesky.svg">
+        <img width="50" src="images/bluesky.svg">
     </a>
     <a href="https://sessionize.com/massimobonanni/" style="text-decoration: none;">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/sessionize.png">
+        <img width="50" src="images/sessionize.png">
     </a>
     <a href="VideoRecap.md" style="text-decoration: none;">
-        <img width="50" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/refs/heads/master/images/youtube.svg">
+        <img width="50" src="images/youtube.svg">
     </a>
 </p>
 
@@ -53,58 +53,58 @@ I'm passionate about biking, reading, and dogs!!
 
 #### June
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>19/06/2026 - Azure Day 2026 Roma - Progettare applicazioni AI su Azure con Azure AI Foundry](technicalsessions/20260619.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>19/06/2026 - Azure Day 2026 Roma - Progettare applicazioni AI su Azure con Azure AI Foundry](technicalsessions/20260619.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>09/06/2026 - #4AI Pescara - GitHub Spark, il vibe coding secondo GitHub!](technicalsessions/20260609.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>09/06/2026 - #4AI Pescara - GitHub Spark, il vibe coding secondo GitHub!](technicalsessions/20260609.md)
 
 #### May
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>29/05/2026 - TabIA Conf Imperia - Forgiare l'AI: soluzioni dal Cloud all'Edge con Azure Foundry](technicalsessions/20260529.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>29/05/2026 - TabIA Conf Imperia - Forgiare l'AI: soluzioni dal Cloud all'Edge con Azure Foundry](technicalsessions/20260529.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>27/05/2026 - SharpCoding meetup - Microsoft Foundry in pratica: progettare applicazioni e agenti AI nell’ecosistema Microsoft](technicalsessions/20260527.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>27/05/2026 - SharpCoding meetup - Microsoft Foundry in pratica: progettare applicazioni e agenti AI nell’ecosistema Microsoft](technicalsessions/20260527.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>22/05/2026 - DevDays Europe 2026 Vilnius - Onboard Developers in 5 Minutes: Modern Dev Environments with Codespaces](technicalsessions/20260522.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>22/05/2026 - DevDays Europe 2026 Vilnius - Onboard Developers in 5 Minutes: Modern Dev Environments with Codespaces](technicalsessions/20260522.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>16/05/2026 - L'Aquila Tech Forum 2026 - Microsoft Foundry 101: le basi per costruire soluzioni AI](technicalsessions/20260516.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>16/05/2026 - L'Aquila Tech Forum 2026 - Microsoft Foundry 101: le basi per costruire soluzioni AI](technicalsessions/20260516.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>05/05/2026 - European Cloud Summit 2026 Colonia - One CLI to Deploy Them All: Building Smarter on Azure with azd](technicalsessions/20260505-1.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>05/05/2026 - European Cloud Summit 2026 Colonia - One CLI to Deploy Them All: Building Smarter on Azure with azd](technicalsessions/20260505-1.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>05/05/2026 - European Cloud Summit 2026 Colonia - Architecting Intelligent APIs: Unifying AI Services with Azure API Management](technicalsessions/20260505-2.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>05/05/2026 - European Cloud Summit 2026 Colonia - Architecting Intelligent APIs: Unifying AI Services with Azure API Management](technicalsessions/20260505-2.md)
 
 #### April
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>18/04/2026 - Global Azure 2026 Pordenone - Azure Storage Account: tutto quello che avresti voluto sapere, ma non hai mai chiesto](technicalsessions/20260418.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>18/04/2026 - Global Azure 2026 Pordenone - Azure Storage Account: tutto quello che avresti voluto sapere, ma non hai mai chiesto](technicalsessions/20260418.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>17/04/2026 - Global Azure 2026 Bari - Una CLI per domarli tutti: il potere di azd!!](technicalsessions/20260417.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>17/04/2026 - Global Azure 2026 Bari - Una CLI per domarli tutti: il potere di azd!!](technicalsessions/20260417.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>13/04/2026 - Global Azure 2026 Milano - Cinquanta sfumature di Azure Compute!](technicalsessions/20260413.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>13/04/2026 - Global Azure 2026 Milano - Cinquanta sfumature di Azure Compute!](technicalsessions/20260413.md)
 
 #### March
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>30/03/2026 - Adriatics Tech Summit 2026 - Unlocking Custom AI: Fine-Tuning Azure OpenAI Models with Your Data](technicalsessions/20260330.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>30/03/2026 - Adriatics Tech Summit 2026 - Unlocking Custom AI: Fine-Tuning Azure OpenAI Models with Your Data](technicalsessions/20260330.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>25/03/2026 - Latina In Tech Meetup - Onboard Developers in 5 Minutes](technicalsessions/20260325.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>25/03/2026 - Latina In Tech Meetup - Onboard Developers in 5 Minutes](technicalsessions/20260325.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>16/03/2026 - AI Infrastructure Summit 2026 - Empowering LLMs with your own data – RAG, function tooling, and fine-tuning in practice](technicalsessions/20260316.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>16/03/2026 - AI Infrastructure Summit 2026 - Empowering LLMs with your own data – RAG, function tooling, and fine-tuning in practice](technicalsessions/20260316.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>07/03/2026 - DataSaturday Timisoara - Don't Underestimate the Azure Storage Account](technicalsessions/20260307.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>07/03/2026 - DataSaturday Timisoara - Don't Underestimate the Azure Storage Account](technicalsessions/20260307.md)
 
 #### February
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>27/02/2026 - SharpCoding 2026 - Continuous AI in pratica: dal prompt al deploy con GitHub Models](technicalsessions/20260227-2.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>27/02/2026 - SharpCoding 2026 - Continuous AI in pratica: dal prompt al deploy con GitHub Models](technicalsessions/20260227-2.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>27/02/2026 - SharpCoding 2026 - Zero setup, zero scuse: sviluppare ovunque con GitHub Codespaces](technicalsessions/20260227-1.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>27/02/2026 - SharpCoding 2026 - Zero setup, zero scuse: sviluppare ovunque con GitHub Codespaces](technicalsessions/20260227-1.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>20/02/2026 - .NET Conference 2026 - Sviluppare tool leggeri e testabili con System.CommandLine](technicalsessions/20260220.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>20/02/2026 - .NET Conference 2026 - Sviluppare tool leggeri e testabili con System.CommandLine](technicalsessions/20260220.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>19/02/2026 - Road To Coderful - Un viaggio nello stack Microsoft AI e Azure](technicalsessions/20260219.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>19/02/2026 - Road To Coderful - Un viaggio nello stack Microsoft AI e Azure](technicalsessions/20260219.md)
 
 
 #### January
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>31/01/2026 - Data Saturday Copenhagen - Don't underestimate the Azure Storage Account](technicalsessions/20260131-2.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>31/01/2026 - Data Saturday Copenhagen - Don't underestimate the Azure Storage Account](technicalsessions/20260131-2.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>31/01/2026 - Data Saturday Copenhagen - Attribute-Based Access Control ... not just roles in Azure access control!!](technicalsessions/20260131-1.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>31/01/2026 - Data Saturday Copenhagen - Attribute-Based Access Control ... not just roles in Azure access control!!](technicalsessions/20260131-1.md)
 
-[<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>09/01/2026 - Bonanni a Tutti - Torino - Bonanni flash!](technicalsessions/20260109.md)
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>09/01/2026 - Bonanni a Tutti - Torino - Bonanni flash!](technicalsessions/20260109.md)
 
 ### Previous years
 #### [2025 -->](TechnicalSessions2025.md)
