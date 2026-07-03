@@ -54,6 +54,10 @@ I'm passionate about biking, reading, and dogs!!
 
 ### 2026
 
+#### July
+
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>02/07/2026 - DWX 2026 Mannheim - Onboard Developers in 5 Minutes: Modern Dev Environments with Codespaces](technicalsessions/2026/20260702.md)
+
 #### June
 
 [<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>19/06/2026 - Azure Day 2026 Roma - Progettare applicazioni AI su Azure con Azure AI Foundry](technicalsessions/2026/20260619.md)

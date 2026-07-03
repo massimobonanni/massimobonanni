@@ -4,6 +4,7 @@ A complete list of all technical sessions with downloadable slides available.
 
 | Date | Conference | Title | Slides |
 |------|------------|-------|--------|
+| 02/07/2026 | DWX | Onboard Developers in 5 Minutes: Modern Dev Environments with Codespaces | [Download](slides/DWX2026.pdf) |
 | 09/06/2026 | #4AI | GitHub Spark, il vibe coding secondo GitHub! | [Download](slides/sharp4AI2026.pdf) |
 | 27/05/2026 | SharpCoding meetup | Microsoft Foundry in pratica: progettare applicazioni e agenti AI nell’ecosistema Microsoft | [Download](slides/SharpCodingMeetup202605.pdf) |
 | 18/04/2026 | Global Azure 2026 | Azure Storage Account: tutto quello che avresti voluto sapere, ma non hai mai chiesto | [Download](slides/GlobalAzure2026-PN.pdf) |
