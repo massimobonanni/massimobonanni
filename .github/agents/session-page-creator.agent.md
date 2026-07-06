@@ -57,7 +57,7 @@ Create the file at `technicalsessions/{YEAR}/{FILENAME}.md` using the template b
 
 ### Flag image
 - Italian → `flagitaly.svg`
-- English → `flagenglish.svg`
+- English → `flagengland.svg`
 
 ### `##` heading format
 ```
