@@ -34,6 +34,9 @@ author:
     - label: "Slides Recap"
       icon: "fa-regular fa-file-powerpoint"
       url: "/SlidesRecap.html"
+    - label: "Certifications"
+      icon: "fas fa-fw fa-certificate"
+      url: "/Certifications.html"
 
 # Footer social links removed. An empty list disables the default footer
 # icons (LinkedIn, X/Twitter, Bluesky, GitHub and the RSS feed).

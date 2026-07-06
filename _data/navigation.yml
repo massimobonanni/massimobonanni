@@ -1,5 +1,7 @@
 # Masthead navigation for the Minimal Mistakes theme.
 main:
+  - title: "Certifications"
+    url: /Certifications.html
   - title: "Video Recap"
     url: /VideoRecap.html
   - title: "Slides Recap"
