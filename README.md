@@ -14,10 +14,14 @@ I'm passionate about biking, reading, and dogs!!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X65UAGO)
 
-----
+
+## <img width="25" src="images/github.svg" style="vertical-align:middle"/> GitHub Stats
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=massimobonanni&amp;theme=nord_bright"/>
+    <br/>
+    <img src="https://github-profile-trophy-bonanni.vercel.app/?username=massimobonanni&amp;column=5&amp;margin-w=15&amp;margin-h=15&amp;title=Followers,PullRequest,Stars,Commit,Issues,Repositories,Experience,Reviews,MultiLanguage,LongTimeUser" />
+    
 </div>
 
 ----
