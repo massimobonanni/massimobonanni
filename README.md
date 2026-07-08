@@ -18,7 +18,7 @@ I'm passionate about biking, reading, and dogs!!
 ## <img width="25" src="images/github.svg" style="vertical-align:middle"/> GitHub Stats
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=massimobonanni&amp;theme=nord_bright"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=massimobonanni&amp;theme=github"/>
     <br/>
     <img src="https://github-profile-trophy-bonanni.vercel.app/?username=massimobonanni&amp;column=5&amp;margin-w=15&amp;margin-h=15&amp;title=Followers,PullRequest,Stars,Commit,Issues,Repositories,Experience,Reviews,MultiLanguage,LongTimeUser" />
     
