@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-I'm Azure Technical Trainer at Microsoft and I spend my job time helping customers to empower their Azure skills to achieve more and leverage the power of Azure better in their solutions.
+I'm Senior Technical Trainer at Microsoft and I spend my job time helping customers to empower their Azure skills to achieve more and leverage the power of Azure better in their solutions.
 
 I'm also a technical speaker both for local and international events and a user-group guy.
 
-I'm passionate about biking, reading, and dogs!!
+I'm passionate about LEGO, reading, and dogs!!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X65UAGO)
 
