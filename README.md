@@ -40,6 +40,9 @@ I'm passionate about biking, reading, and dogs!!
     <a href="https://sessionize.com/massimobonanni/" style="text-decoration: none;">
         <img width="50" src="images/sessionize.png">
     </a>
+    <a href="https://dev.to/massimobonanni" style="text-decoration: none;">
+        <img width="50" src="images/dev-to.svg">
+    </a>
     <a href="VideoRecap.md" style="text-decoration: none;">
         <img width="50" src="images/video.svg">
     </a>
