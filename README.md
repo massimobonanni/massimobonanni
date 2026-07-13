@@ -28,35 +28,13 @@ I'm passionate about LEGO, reading, and dogs!!
 
 ## 🔗 Links
 
-<p align="center">
-    <a href="mailto:massimo.bonanni@tiscali.it" style="text-decoration: none;">
-        <img width="50" src="images/mail.svg"/>
-    </a>
-    <a href="https://www.linkedin.com/in/massimobonanni/" style="text-decoration: none;">
-        <img width="50" src="images/linkedin.svg">
-    </a>
-    <a href="https://twitter.com/massimobonanni" style="text-decoration: none;">
-        <img width="50" src="images/x.svg">
-    </a>
-    <a href="https://bsky.app/profile/massimobonanni.bsky.social" style="text-decoration: none;">
-        <img width="50" src="images/bluesky.svg">
-    </a>
-    <a href="https://sessionize.com/massimobonanni/" style="text-decoration: none;">
-        <img width="50" src="images/sessionize.png">
-    </a>
-    <a href="https://dev.to/massimobonanni" style="text-decoration: none;">
-        <img width="50" src="images/dev-to.svg">
-    </a>
-    <a href="VideoRecap.md" style="text-decoration: none;">
-        <img width="50" src="images/video.svg">
-    </a>
-    <a href="SlidesRecap.md" style="text-decoration: none;">
-        <img width="50" src="images/slides.svg">
-    </a>
-    <a href="Certifications.md" style="text-decoration: none;">
-        <img width="50" src="images/certifications.png">
-    </a>
-</p>
+<div align="center">
+
+[<img width="50" src="images/mail.svg">](mailto:massimo.bonanni@tiscali.it) [<img width="50" src="images/linkedin.svg">](https://www.linkedin.com/in/massimobonanni/) [<img width="50" src="images/x.svg">](https://twitter.com/massimobonanni) [<img width="50" src="images/bluesky.svg">](https://bsky.app/profile/massimobonanni.bsky.social) [<img width="50" src="images/sessionize.png">](https://sessionize.com/massimobonanni/) [<img width="50" src="images/dev-to.svg">](https://dev.to/massimobonanni)
+
+[<img width="50" src="images/video.svg">](VideoRecap.md) [<img width="50" src="images/slides.svg">](SlidesRecap.md) [<img width="50" src="images/certifications.png">](Certifications.md)
+
+</div>
 
 ----
 
