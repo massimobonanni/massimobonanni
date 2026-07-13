@@ -96,6 +96,13 @@ plugins:
   - jekyll-readme-index
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-relative-links
+
+# Convert .md links in HTML anchors to .html so they work on GitHub Pages
+# while keeping .md in source for GitHub repo rendering.
+relative_links:
+  enabled: true
+  collections: false
 
 # Apply the Minimal Mistakes "single" layout to every content page (the README
 # home, VideoRecap, yearly archives and individual sessions) and show the author
