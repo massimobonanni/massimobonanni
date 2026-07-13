@@ -28,11 +28,11 @@ I'm passionate about LEGO, reading, and dogs!!
 
 ## 🔗 Links
 
-<div align="center">
+<div align="center" markdown="1">
 
-[<img width="50" src="images/mail.svg">](mailto:massimo.bonanni@tiscali.it) [<img width="50" src="images/linkedin.svg">](https://www.linkedin.com/in/massimobonanni/) [<img width="50" src="images/x.svg">](https://twitter.com/massimobonanni) [<img width="50" src="images/bluesky.svg">](https://bsky.app/profile/massimobonanni.bsky.social) [<img width="50" src="images/sessionize.png">](https://sessionize.com/massimobonanni/) [<img width="50" src="images/dev-to.svg">](https://dev.to/massimobonanni)
+[<img width="50" src="images/mail.svg">](mailto:massimo.bonanni@tiscali.it)&emsp;[<img width="50" src="images/linkedin.svg">](https://www.linkedin.com/in/massimobonanni/)&emsp;[<img width="50" src="images/x.svg">](https://twitter.com/massimobonanni)&emsp;[<img width="50" src="images/bluesky.svg">](https://bsky.app/profile/massimobonanni.bsky.social)&emsp;[<img width="50" src="images/sessionize.png">](https://sessionize.com/massimobonanni/)&emsp;[<img width="50" src="images/dev-to.svg">](https://dev.to/massimobonanni)
 
-[<img width="50" src="images/video.svg">](VideoRecap.md) [<img width="50" src="images/slides.svg">](SlidesRecap.md) [<img width="50" src="images/certifications.png">](Certifications.md)
+[<img width="50" src="images/video.svg">](VideoRecap.md)&emsp;[<img width="50" src="images/slides.svg">](SlidesRecap.md)&emsp;[<img width="50" src="images/certifications.png">](Certifications.md)
 
 </div>
 
