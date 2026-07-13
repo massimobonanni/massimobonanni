@@ -53,6 +53,9 @@ I'm passionate about LEGO, reading, and dogs!!
     <a href="SlidesRecap.md" style="text-decoration: none;">
         <img width="50" src="images/slides.svg">
     </a>
+        <a href="Certifications.md" style="text-decoration: none;">
+        <img width="50" src="images/certifications.png">
+    </a>
 </p>
 
 ----
