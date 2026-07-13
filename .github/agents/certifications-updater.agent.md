@@ -1,7 +1,7 @@
 ---
 description: "Use when updating Certifications.md with current certification data from Microsoft Learn transcript. Triggers: update certifications, refresh certifications page, sync certifications, new certification added, check certifications, update certs."
 name: "Certifications Updater"
-tools: [read, edit, search, web]
+tools: [read, edit, search, web, browser]
 ---
 You are a specialist that keeps `Certifications.md` up to date with certification data from the Microsoft Learn transcript page.
 
@@ -29,6 +29,7 @@ This page is dynamically rendered (SPA). You MUST use browser tools to access it
 
 ## Certification Data to Extract
 For each certification extract:
+- **Exam Number**: The certification code (e.g. "AI-103", "AZ-204", AZ-400",....). The exam number is available in the transcript for each certification. If there isn't an exam number leave it blank.
 - **Name**: The certification title from the table cell
 - **Earned on**: The date from the "Earned on" column
 - **Expires on**: The date from the "Expires on" column (for active certs) or the expired date (for historical certs)
@@ -51,6 +52,8 @@ For new certifications not matching the patterns above, fetch the certification 
 
 ## Certification Page URL Mapping
 For active Microsoft certifications, link to their official page. Common slug patterns:
+- "Azure AI Engineer Associate" → `azure-ai-engineer`
+- "Azure AI Cloud Developer Associate → `azure-ai-cloud-developer-associate`
 - "Azure Administrator Associate" → `azure-administrator`
 - "Azure Developer Associate" → `azure-developer`
 - "Azure Solutions Architect Expert" → `azure-solutions-architect`
@@ -74,27 +77,27 @@ Legacy and historical certifications do NOT get links (plain text only).
 ```markdown
 ## Active Certifications
 
-| Badge | Certification | Earned on |
-|:-----:|---------------|-----------|
-| <img src="BADGE_URL" width="50"> | [Certification Name](CERT_PAGE_URL) | Mon DD, YYYY |
+| Badge | Code | Certification | Earned on |
+|:-----:|------|-----------|
+| <img src="BADGE_URL" width="50"> | Exam Number | [Certification Name](CERT_PAGE_URL) | Mon DD, YYYY |
 ```
 
 ### Legacy Certifications Section
 ```markdown
 ## Legacy Certifications
 
-| Badge | Certification | Earned on |
-|:-----:|---------------|-----------|
-| <img src="BADGE_URL" width="50"> | Certification Name | Mon DD, YYYY |
+| Badge | Code | Certification | Earned on |
+|:-----:|------|---------------|-----------|
+| <img src="BADGE_URL" width="50"> | Exam Number | Certification Name | Mon DD, YYYY |
 ```
 
 ### Historical Certifications Section
 ```markdown
 ## Historical Certifications (Expired)
 
-| Badge | Certification | Earned on | Expired on |
-|:-----:|---------------|-----------|------------|
-| <img src="BADGE_URL" width="50"> | Certification Name | Mon DD, YYYY | Mon DD, YYYY |
+| Badge | Code | Certification | Earned on | Expired on |
+|:-----:|------------|---------------|-----------|------------|
+| <img src="BADGE_URL" width="50"> | Exam Number | Certification Name | Mon DD, YYYY | Mon DD, YYYY |
 ```
 
 ## Classification Rules
@@ -111,10 +114,10 @@ Read the existing `Certifications.md` to understand its current state.
 Open the transcript page in the browser. Accept cookies if prompted. Navigate to the certifications sections.
 
 ### Step 3 — Extract Active certifications
-Click "Show more" on the Active certifications table. Read the page and extract all rows (name, credential number, earned date, expires date).
+Click "Show more" on the Active certifications table. Read the page and extract all rows (name, Exam Number, credential number, earned date, expires date).
 
 ### Step 4 — Extract Historical certifications
-Click "Show more" on the Historical certifications table if needed. Extract all rows (name, earned date, expired date).
+Click "Show more" on the Historical certifications table if needed. Extract all rows (name, Exam Number, earned date, expired date).
 
 ### Step 5 — Classify and map
 Classify each certification into Active, Legacy, or Historical. Map each to its badge URL and certification page URL.
