@@ -29,7 +29,7 @@ This page is dynamically rendered (SPA). You MUST use browser tools to access it
 
 ## Certification Data to Extract
 For each certification extract:
-- **Exam Number**: The certification code (e.g. "AI-103", "AZ-204", AZ-400",....). The exam number is available in the transcript for each certification. If there isn't an exam number leave it blank.
+- **Exam Number**: The certification code (e.g. "AI-103", "AZ-204", "AZ-400",....). The exam number is available in the transcript for each certification. If the certification number is composed by multiple exams, add all the numbers (e.g. "AZ-300 + AZ-301"). If there isn't an exam number leave it blank.
 - **Name**: The certification title from the table cell
 - **Earned on**: The date from the "Earned on" column
 - **Expires on**: The date from the "Expires on" column (for active certs) or the expired date (for historical certs)
