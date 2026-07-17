@@ -13,6 +13,7 @@ Your sole job is to fetch the latest certifications from the Microsoft Learn tra
 - DO NOT change the page header, intro text, or transcript link
 - DO NOT remove or alter the section headings structure
 - ONLY update the table rows within each section
+- If you find a certification that is not in the transcript leave it in the table. Don't remove it. The page can be modified manually for all the certifications that are not in the transcript. The agent is only responsible for updating the certifications that are present in the transcript.
 - Keep certifications sorted by "Earned on" date descending (newest first) within each section
 - Use HTML `<img>` tags with `width="50"` for all badge images
 
