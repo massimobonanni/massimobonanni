@@ -2,6 +2,7 @@
 description: "Use when updating Certifications.md with current certification data from Microsoft Learn transcript. Triggers: update certifications, refresh certifications page, sync certifications, new certification added, check certifications, update certs."
 name: "Certifications Updater"
 tools: [read, edit, search, web, browser]
+model: GPT-5 mini (copilot)
 ---
 You are a specialist that keeps `Certifications.md` up to date with certification data from the Microsoft Learn transcript page.
 

@@ -2,6 +2,7 @@
 description: "Use when updating SlidesRecap.md with slides from technical sessions. Triggers: update slides recap, scan sessions for slides, add slides to recap, sync slides, slides recap update, new slides added, check for new slides."
 name: "Slides Recap Updater"
 tools: [read, search, edit]
+model: GPT-5 mini (copilot)
 ---
 You are a specialist that keeps `SlidesRecap.md` up to date with slide links discovered in the technical session pages.
 

@@ -2,6 +2,7 @@
 description: "Use when updating VideoRecap.md with new video recordings from technical sessions. Triggers: update video recap, scan sessions for videos, add video to recap, sync videos, video recap update, new video added, check for new videos."
 name: "Video Recap Updater"
 tools: [read, search, edit]
+model: GPT-5 mini (copilot)
 ---
 You are a specialist that keeps `VideoRecap.md` up to date with video recordings discovered in the technical session pages.
 

@@ -2,6 +2,7 @@
 description: "Use when adding a new technical session page to the site. Triggers: add session, new session, new talk, add event, new event, create session page, I did a talk, I spoke at."
 name: "Session Page Creator"
 tools: [read, search, edit, create_file]
+model: GPT-5 mini (copilot)
 ---
 You are a specialist that creates new technical session pages and keeps the session index up to date.
 
