@@ -8,6 +8,7 @@ You can verify my credentials on my [Microsoft Learn Transcript](https://learn.m
 
 | Badge | Code | Certification | Earned on |
 |:-----:|------|---------------|-----------|
+| <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="50"> | AI-901 | [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | Jul 17, 2026 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50"> | AI-200 | [Microsoft Certified: Azure AI Cloud Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/) | Jul 13, 2026 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50"> | AI-103 | [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer/) | Jun 23, 2026 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/ai-transformation-leader.svg" width="50"> | AB-731 | [Microsoft Certified: AI Transformation Leader](https://learn.microsoft.com/en-us/credentials/certifications/ai-transformation-leader/) | Apr 28, 2026 |
