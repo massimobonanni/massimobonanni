@@ -51,6 +51,9 @@ atom_feed:
 url: "https://info.massimobonanni.it"
 baseurl: ""
 
+# Microsoft Clarity analytics. The tracking script is loaded only on the home page.
+clarity_project_id: "ybi6g6yc7m"
+
 # Richer theme rendered via GitHub Pages remote_theme (built by the Actions
 # workflow). Minimal Mistakes adds an author sidebar, color skins, a search box
 # and a curated masthead navigation (see _data/navigation.yml). The top nav is
