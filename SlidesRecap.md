@@ -4,6 +4,8 @@ A complete list of all technical sessions with downloadable slides available.
 
 | Date | Conference | Title | Slides |
 |------|------------|-------|--------|
+| 12/09/2026 | AI Industrial Summit 2026 | Face It: how Azure Face Service can help you recognize and identify faces | [Download](slides/AIIndustrialSummit2026-01.pdf) |
+| 12/09/2026 | AI Industrial Summit 2026 | The Foundry Forge: Crafting AI Solutions from Azure to the Edge | [Download](slides/AIIndustrialSummit2026-02.pdf) |
 | 02/07/2026 | DWX | Onboard Developers in 5 Minutes: Modern Dev Environments with Codespaces | [Download](slides/DWX2026.pdf) |
 | 09/06/2026 | #4AI | GitHub Spark, il vibe coding secondo GitHub! | [Download](slides/sharp4AI2026.pdf) |
 | 27/05/2026 | SharpCoding meetup | Microsoft Foundry in pratica: progettare applicazioni e agenti AI nell’ecosistema Microsoft | [Download](slides/SharpCodingMeetup202605.pdf) |
