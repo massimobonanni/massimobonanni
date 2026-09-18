@@ -8,6 +8,7 @@ You can verify my credentials on my [Microsoft Learn Transcript](https://learn.m
 
 | Badge | Code | Certification | Earned on |
 |:-----:|------|---------------|-----------|
+| <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="50"> | AB-100 | [Microsoft Certified: Agentic AI Business Solutions Architect](https://learn.microsoft.com/) | Sep 17, 2026 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50"> | AB-620 | [Microsoft Certified: AI Agent Builder Associate](https://learn.microsoft.com/en-us/credentials/certifications/ai-agent-builder/) | Aug 25, 2026 |
 | <img src="https://learn.microsoft.com/en-us/credentials/images/badges/github-agentic-ai-developer.svg" width="50"> | GH-600 | [GitHub Certified: Agentic AI Developer](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/) | Jul 28, 2026 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="50"> | AI-901 | [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | Jul 17, 2026 |
