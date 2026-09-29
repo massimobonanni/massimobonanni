@@ -4,6 +4,7 @@ A complete list of all technical sessions with downloadable slides available.
 
 | Date | Conference | Title | Slides |
 |------|------------|-------|--------|
+| 26/09/2026 | 1nn0vAI 2026 | Forgiare l’AI: Soluzioni a confronto dal Cloud all’Edge con Azure Foundry | [Download](slides/1nn0vai2026.pdf) |
 | 12/09/2026 | AI Industrial Summit 2026 | Face It: how Azure Face Service can help you recognize and identify faces | [Download](slides/AIIndustrialSummit2026-01.pdf) |
 | 12/09/2026 | AI Industrial Summit 2026 | The Foundry Forge: Crafting AI Solutions from Azure to the Edge | [Download](slides/AIIndustrialSummit2026-02.pdf) |
 | 02/07/2026 | DWX | Onboard Developers in 5 Minutes: Modern Dev Environments with Codespaces | [Download](slides/DWX2026.pdf) |

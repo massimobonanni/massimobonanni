@@ -44,6 +44,8 @@ I'm passionate about LEGO, reading, and dogs!!
 
 #### September
 
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>26/09/2026 - 1nn0vAI 2026 Pordenone - Forgiare l’AI: Soluzioni a confronto dal Cloud all’Edge con Azure Foundry](technicalsessions/2026/20260926.md)
+
 [<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>12/09/2026 - AI Industrial Summit 2026 Sofia - Face It: how Azure Face Service can help you recognize and identify faces](technicalsessions/2026/20260912-1.md)
 
 [<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>12/09/2026 - AI Industrial Summit 2026 Sofia - The Foundry Forge: Crafting AI Solutions from Azure to the Edge](technicalsessions/2026/20260912-2.md)
