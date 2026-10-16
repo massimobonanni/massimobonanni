@@ -42,6 +42,10 @@ I'm passionate about LEGO, reading, and dogs!!
 
 ### 2026
 
+#### October
+
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>16/10/2026 - #4&lt;Dev&gt;, Sharp4Dev 2026 Roma - Dal caos al deploy: orchestrare il ciclo di vita delle app con una sola CLI](technicalsessions/2026/20261016.md)
+
 #### September
 
 [<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>26/09/2026 - 1nn0vAI 2026 Pordenone - Forgiare l’AI: Soluzioni a confronto dal Cloud all’Edge con Azure Foundry](technicalsessions/2026/20260926.md)
