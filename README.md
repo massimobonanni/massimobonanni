@@ -46,6 +46,8 @@ I'm passionate about LEGO, reading, and dogs!!
 
 [<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>29/10/2026 - Cloud Conference Italia 2026 Treviso - Una CLI per domarli tutti: semplificare sviluppo e deployment su Azure con azd](technicalsessions/2026/20261029.md)
 
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>29/10/2026 - Cloud Conference Italia 2026 Treviso - The Foundry Forge: Crafting AI Solutions from Azure to the Edge](technicalsessions/2026/20261029-1.md)
+
 [<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>16/10/2026 - #4&lt;Dev&gt;, Sharp4Dev 2026 Roma - Dal caos al deploy: orchestrare il ciclo di vita delle app con una sola CLI](technicalsessions/2026/20261016.md)
 
 #### September
