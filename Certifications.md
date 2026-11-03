@@ -8,6 +8,7 @@ You can verify my credentials on my [Microsoft Learn Transcript](https://learn.m
 
 | Badge | Code | Certification | Earned on |
 |:-----:|------|---------------|-----------|
+| <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="50"> | AI-500 | [Microsoft Certified: Multi-Agent AI Solutions Expert](https://learn.microsoft.com/en-us/credentials/certifications/multi-agent-ai-solutions-expert/) | Nov 2, 2026 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-advanced-security.svg" width="50"> | GH-500 | [GitHub Advanced Security](https://learn.microsoft.com/en-us/credentials/certifications/github-advanced-security/) | Oct 21, 2026 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="50"> | AB-100 | [Microsoft Certified: Agentic AI Business Solutions Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/) | Sep 17, 2026 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50"> | AB-620 | [Microsoft Certified: AI Agent Builder Associate](https://learn.microsoft.com/en-us/credentials/certifications/ai-agent-builder/) | Aug 25, 2026 |
