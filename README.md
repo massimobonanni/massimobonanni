@@ -42,6 +42,10 @@ I'm passionate about LEGO, reading, and dogs!!
 
 ### 2026
 
+#### November
+
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>07/11/2026 - DEVFEST PESCARA RELOADED Pescara - GitHub Actions, automatizzare come nessun developer ha mai automatizzato prima!!](technicalsessions/2026/20261107.md)
+
 #### October
 
 [<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>29/10/2026 - Cloud Conference Italia 2026 Treviso - Una CLI per domarli tutti: semplificare sviluppo e deployment su Azure con azd](technicalsessions/2026/20261029.md)
