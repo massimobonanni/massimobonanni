@@ -1,0 +1,55 @@
+name: Assign session issues to Session Page Creator
+
+on:
+  issues:
+    types: [labeled]
+
+permissions: {}
+
+jobs:
+  assign-to-agent:
+    if: github.event.label.name == 'session'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify labeler and assign Copilot
+        uses: actions/github-script@v7
+        with:
+          # Configure this repository secret with a user token that can assign Copilot issues.
+          github-token: ${{ secrets.COPILOT_ASSIGNMENT_TOKEN }}
+          script: |
+            const { owner, repo } = context.repo;
+            const actor = context.payload.sender?.login;
+
+            if (!actor) {
+              throw new Error('The label event did not include the actor login.');
+            }
+
+            try {
+              await github.rest.repos.checkCollaborator({
+                owner,
+                repo,
+                username: actor,
+              });
+            } catch (error) {
+              if (error.status === 404) {
+                core.notice(`Skipping assignment: @${actor} is not a repository collaborator.`);
+                return;
+              }
+
+              throw error;
+            }
+
+            await github.request(
+              'POST /repos/{owner}/{repo}/issues/{issue_number}/assignees',
+              {
+                owner,
+                repo,
+                issue_number: context.payload.issue.number,
+                assignees: ['copilot-swe-agent[bot]'],
+                agent_assignment: {
+                  target_repo: `${owner}/${repo}`,
+                  base_branch: context.payload.repository.default_branch,
+                  custom_agent: 'session-page-creator',
+                },
+              },
+            );

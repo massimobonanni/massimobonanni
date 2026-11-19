@@ -1,0 +1,66 @@
+name: Nuova sessione
+description: Proponi una nuova sessione tecnica da aggiungere al sito.
+body:
+  - type: markdown
+    attributes:
+      value: Compila i dati della sessione. Dopo aver verificato i dettagli, un collaboratore del repository può aggiungere l'etichetta `session` per avviare l'automazione.
+  - type: input
+    id: event-date
+    attributes:
+      label: Data della sessione
+      description: Usa il formato GG/MM/AAAA.
+      placeholder: 19/11/2026
+    validations:
+      required: true
+  - type: input
+    id: event-name
+    attributes:
+      label: Nome dell'evento
+    validations:
+      required: true
+  - type: input
+    id: event-city
+    attributes:
+      label: Città dell'evento
+    validations:
+      required: true
+  - type: input
+    id: session-title
+    attributes:
+      label: Titolo della sessione
+      description: Inserisci il titolo nella lingua originale.
+    validations:
+      required: true
+  - type: textarea
+    id: abstract
+    attributes:
+      label: Abstract
+      description: Inserisci il testo completo dell'abstract.
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Lingua della sessione
+      options:
+        - Italian
+        - English
+    validations:
+      required: true
+  - type: input
+    id: event-website
+    attributes:
+      label: URL del sito dell'evento
+  - type: input
+    id: video-url
+    attributes:
+      label: URL del video
+  - type: input
+    id: slides-filename
+    attributes:
+      label: Nome del file delle slide
+      description: Inserisci solo il nome del file, ad esempio MySlideDeck.pdf.
+  - type: input
+    id: demo-repo
+    attributes:
+      label: URL del repository GitHub della demo

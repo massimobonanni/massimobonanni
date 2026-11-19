@@ -1,0 +1,10 @@
+name: Altro
+description: Apri un'issue per qualsiasi altra richiesta o segnalazione.
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrizione
+      description: Descrivi la richiesta o la segnalazione.
+    validations:
+      required: true
