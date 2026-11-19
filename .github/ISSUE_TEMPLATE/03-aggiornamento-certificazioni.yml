@@ -1,0 +1,19 @@
+name: Aggiornamento certificazioni
+description: Richiedi di aggiungere al sito le nuove certificazioni presenti nel transcript Microsoft Learn.
+title: Aggiornamento delle certificazioni
+body:
+  - type: markdown
+    attributes:
+      value: L'agente usa il transcript Microsoft Learn già configurato. Dopo aver verificato la richiesta, un collaboratore del repository può aggiungere l'etichetta `new certification` per avviare l'automazione.
+  - type: checkboxes
+    id: update-request
+    attributes:
+      label: Richiesta di aggiornamento
+      options:
+        - label: Verifica il transcript Microsoft Learn e aggiungi al sito le nuove certificazioni mancanti.
+          required: true
+  - type: textarea
+    id: certification-details
+    attributes:
+      label: Certificazioni da segnalare
+      description: Se li conosci, indica i nomi o i codici delle nuove certificazioni. Puoi lasciare il campo vuoto.

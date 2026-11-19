@@ -1,4 +1,4 @@
-name: Assign session issues to Session Page Creator
+name: Assign labeled issues to Copilot agents
 
 on:
   issues:
@@ -8,7 +8,7 @@ permissions: {}
 
 jobs:
   assign-to-agent:
-    if: github.event.label.name == 'session'
+    if: github.event.label.name == 'new session' || github.event.label.name == 'new certification'
     runs-on: ubuntu-latest
     steps:
       - name: Verify labeler and assign Copilot
@@ -19,6 +19,15 @@ jobs:
           script: |
             const { owner, repo } = context.repo;
             const actor = context.payload.sender?.login;
+            const label = context.payload.label?.name.toLowerCase();
+            const agent = new Map([
+              ['new session', 'session-page-creator'],
+              ['new certification', 'certifications-updater'],
+            ]).get(label);
+
+            if (!agent) {
+              throw new Error('The label event did not match a configured agent.');
+            }
 
             if (!actor) {
               throw new Error('The label event did not include the actor login.');
@@ -49,7 +58,7 @@ jobs:
                 agent_assignment: {
                   target_repo: `${owner}/${repo}`,
                   base_branch: context.payload.repository.default_branch,
-                  custom_agent: 'session-page-creator',
+                  custom_agent: agent,
                 },
               },
             );
