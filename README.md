@@ -44,6 +44,8 @@ I'm passionate about LEGO, reading, and dogs!!
 
 #### November
 
+[<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>24/11/2026 - WPC 2026 Assago (MI) - MCP: l'USB-C dell'AI — quando gli agenti smettono di parlare e iniziano a fare](technicalsessions/2026/20261124.md)
+
 [<img width="25" src="images/technicalsessions.svg" style="vertical-align:middle"/>07/11/2026 - DEVFEST PESCARA RELOADED Pescara - GitHub Actions, automatizzare come nessun developer ha mai automatizzato prima!!](technicalsessions/2026/20261107.md)
 
 #### October
